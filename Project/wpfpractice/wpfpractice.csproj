@@ -8,4 +8,26 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Images\icons8-attendance-30.png" />
+    <None Remove="Images\icons8-attendance-64.png" />
+    <None Remove="Images\icons8-check-30.png" />
+    <None Remove="Images\icons8-delete-24.png" />
+    <None Remove="Images\icons8-home-50.png" />
+    <None Remove="Images\icons8-log-out-30.png" />
+    <None Remove="Images\icons8-register-30.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\icons8-attendance-30.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\icons8-attendance-64.png" />
+    <Resource Include="Images\icons8-check-30.png" />
+    <Resource Include="Images\icons8-delete-24.png" />
+    <Resource Include="Images\icons8-home-50.png" />
+    <Resource Include="Images\icons8-log-out-30.png" />
+    <Resource Include="Images\icons8-register-30.png" />
+  </ItemGroup>
+
 </Project>

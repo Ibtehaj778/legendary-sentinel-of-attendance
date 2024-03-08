@@ -15,17 +15,18 @@
                     </Style>
                 </Button.Resources>
                 <StackPanel >
-                    <Image Source="/Images/icons8-hamburger-24.png" Height="30" Width="40"/>
+                    <Image Source="/Images/icons8-hamburger-24.png" Height="25" Width="35"/>
                 </StackPanel>
             </Button>
         </Grid>-->
         <Grid HorizontalAlignment="Right" Height="460" Width="650">
-            
+
         </Grid>
         <Grid HorizontalAlignment="Left"  Width="150" Height="460" Margin="0,10,0,0">
             <Grid Height="60" VerticalAlignment="Top">
                 <Button x:Name="HOME"  
                         BorderThickness="2" 
+                        BorderBrush="White"
                         MouseEnter="HOME_MouseEnter"
                         Width="140" Background="#FFF12C8F" Foreground="White" FontSize="15"
                         >
@@ -35,14 +36,15 @@
                         </Style>
                     </Button.Resources>
                     <StackPanel >
-                        <Image Source="/Images/icons8-home-50.png" Height="30" Width="40"/>
-                        <TextBlock>HOME</TextBlock>
+                        <Image Source="/Images/icons8-home-50.png" Height="25" Width="35"/>
+                       <TextBlock FontFamily="Arial" FontWeight="DemiBold" >HOME</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
             <Grid Height="60" VerticalAlignment="Top" Margin="0,65,0,0">
                 <Button x:Name="ATTENDANCE"  
                         BorderThickness="2" 
+                        BorderBrush="White"
                         Background="#FFF12C8F" Foreground="White" FontSize="15"
                         Width="140"
                         >
@@ -52,16 +54,18 @@
                         </Style>
                     </Button.Resources>
                     <StackPanel >
-                        <Image Source="/Images/icons8-attendance-30.png" Height="30" Width="40"/>
-                        <TextBlock>ATTENDANCE</TextBlock>
+                        <Image Source="/Images/icons8-attendance-30.png" Height="25" Width="35" />
+
+                       <TextBlock FontFamily="Arial" FontWeight="DemiBold" >ATTENDANCE</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
             <Grid Height="60" VerticalAlignment="Top" Margin="0,130,0,0">
                 <Button x:Name="CHECK_RECORDS"  
                         BorderThickness="2" 
-                        Background="#FFF12C8F" Foreground="White" FontSize="15" 
+                        Background="#FFF12C8F" Foreground="White" FontSize="13" 
                         Width="140"
+                        BorderBrush="White"
                         >
                     <Button.Resources>
                         <Style TargetType="Border">
@@ -69,8 +73,8 @@
                         </Style>
                     </Button.Resources>
                     <StackPanel >
-                        <Image Source="/Images/icons8-check-30.png" Height="30" Width="40"/>
-                        <TextBlock>CHECK RECORDS</TextBlock>
+                        <Image Source="/Images/icons8-check-30.png" Height="25" Width="35"/>
+                       <TextBlock FontFamily="Arial" FontWeight="DemiBold" >CHECK RECORDS</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -79,6 +83,7 @@
                         BorderThickness="2" 
                         Background="#FFF12C8F" Foreground="White" FontSize="15" 
                         Width="140"
+                        BorderBrush="White"
                         >
                     <Button.Resources>
                         <Style TargetType="Border">
@@ -86,16 +91,16 @@
                         </Style>
                     </Button.Resources>
                     <StackPanel >
-                        <Image Source="/Images/icons8-register-30.png" Height="30" Width="40"/>
-                        <TextBlock>REGISTER NEW</TextBlock>
+                        <Image Source="/Images/icons8-register-30.png" Height="25" Width="35"/>
+                       <TextBlock FontFamily="Arial" FontWeight="DemiBold" >REGISTER NEW</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
             <Grid Height="60" VerticalAlignment="Top" Margin="0,260,0,0">
                 <Button x:Name="DELETE_RECORDS"  
                         BorderThickness="2" 
-                         
-                        Width="140" Background="#FFF12C8F" Foreground="White" FontSize="15"
+                        BorderBrush="White"
+                        Width="140" Background="#FFF12C8F" Foreground="White" FontSize="13"
                         >
                     <Button.Resources>
                         <Style TargetType="Border">
@@ -103,15 +108,15 @@
                         </Style>
                     </Button.Resources>
                     <StackPanel >
-                        <Image Source="/Images/icons8-delete-24.png" Height="30" Width="40"/>
-                        <TextBlock>DELETE RECORDS</TextBlock>
+                        <Image Source="/Images/icons8-delete-24.png" Height="25" Width="35"/>
+                       <TextBlock FontFamily="Arial" FontWeight="DemiBold" >DELETE RECORDS</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
             <Grid Height="60" VerticalAlignment="Top" Margin="0,325,0,0">
                 <Button x:Name="ATTENDANCE_PLUS"  
-                BorderThickness="1" 
-                 
+                BorderThickness="2" 
+                BorderBrush="White"
                 Width="140" Foreground="White" FontSize="15"
                 >
                     <Button.Resources>
@@ -121,21 +126,23 @@
                     </Button.Resources>
                     <Button.Background>
                         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                            <GradientStop Color="#FF3E0350" Offset="0"/>
-                            <GradientStop Color="#FF9D05CC" Offset="0.535"/>
+                            <GradientStop Color="#FFF12C8F" Offset="-0.3"/>
+                            <GradientStop Color="#FF9D05CC" Offset="0.9"/>
                         </LinearGradientBrush>
                     </Button.Background>
                     <StackPanel >
-                        <Image Source="/Images/icons8-attendance-64.png" Height="30" Width="40"/>
-                        <TextBlock>ATTENDANCE++</TextBlock>
+                        <Image Source="/Images/icons8-attendance-64.png" Height="25" Width="35"/>
+                        <TextBlock FontFamily="Arial" FontWeight="DemiBold" >ATTENDANCE++</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
             <Grid Height="60" VerticalAlignment="Top" Margin="0,390,0,0">
                 <Button x:Name="LOG_OUT"  
-                BorderThickness="1" 
-                 
-                Width="140" Foreground="#FFFDF9F9" FontSize="15" FontWeight="DemiBold">
+                BorderThickness="2" 
+                BorderBrush="White"
+                Width="140" Foreground="#FFFDF9F9" 
+                FontSize="15" 
+                FontWeight="DemiBold">
                     <Button.Resources>
                         <Style TargetType="Border">
                             <Setter Property="CornerRadius" Value="5"/>
@@ -148,8 +155,8 @@
                         </RadialGradientBrush>
                     </Button.Background>
                     <StackPanel >
-                        <Image Source="/Images/icons8-log-out-30.png" Height="30" Width="40"/>
-                        <TextBlock>LOG OUT</TextBlock>
+                        <Image Source="/Images/icons8-log-out-30.png" Height="25" Width="35"/>
+                       <TextBlock FontFamily="Arial" FontWeight="DemiBold" >LOG OUT</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
