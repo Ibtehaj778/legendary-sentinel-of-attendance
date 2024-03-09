@@ -143,7 +143,8 @@
                 BorderBrush="White"
                 Width="140" Foreground="#FFFDF9F9" 
                 FontSize="15" 
-                FontWeight="DemiBold">
+                FontWeight="DemiBold"
+                        Click="LOG_OUT_Click">
                     <Button.Resources>
                         <Style TargetType="Border">
                             <Setter Property="CornerRadius" Value="5"/>

@@ -24,5 +24,13 @@ namespace project2._0
         {
             InitializeComponent();
         }
+
+        private void LOG_OUT_Click(object sender, RoutedEventArgs e)
+        {
+            
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            Window.GetWindow(this).Close();
+        }
     }
 }
