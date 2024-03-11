@@ -30,6 +30,7 @@ namespace project2._0
             password = PASSWORD.Text;
             string csvFilePath = "C:\\Users\\093a2\\Desktop\\practice\\project2.0\\project2.0\\Credentials.txt"; // Replace this with the path to your CSV file
             bool isAuthenticated = false;
+            bool halfAuthenticated = false;
 
             try
             {
@@ -46,15 +47,39 @@ namespace project2._0
                         }
                     }
                 }
+                if (!isAuthenticated)
+                {
+                    using (StreamReader reader = new StreamReader(csvFilePath))
+                    {
+                        string line;
+                        while ((line = reader.ReadLine()) != null)
+                        {
+                            string[] parts = line.Split(',');
+                            if (parts.Length >= 2 && parts[0].Trim() == name)
+                            {
+                                halfAuthenticated = true;
+                                break;
+                            }
+                        }
+                    }
+                }
+                
                 if (isAuthenticated)
                 {
                     Interface MainPage= new Interface();
                     this.Content = MainPage;
                     
                 }
+                else if (halfAuthenticated)
+                {
+                    MessageBox.Show("Invalid Credentials");
+                    PASSWORD.Text = "";
+                }
                 else
                 {
-                    MessageBox.Show("Authentication failed.");
+                    MessageBox.Show("Invalid Credentials");
+                    USERNAME.Text = "";
+                    PASSWORD.Text = "";
                 }
             }
             catch (Exception ex)
