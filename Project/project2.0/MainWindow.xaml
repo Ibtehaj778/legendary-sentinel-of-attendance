@@ -5,53 +5,93 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:project2._0"
         mc:Ignorable="d"
-        Title="MainWindow" Height="480" Width="800">
-    <Grid Background="LightGray">
-        <Grid x:Name="SECONDHALF" 
-              Height="270" 
-              VerticalAlignment="Bottom"
-              Background="#FF07B1EA">
-            <Image Source="/Images/bg.png" Stretch="Fill" Margin="0,-196,0,0" />
+        Title="MainWindow" Height="500" Width="800">
+    <Grid Background="LightGray" >
+        <Image Source="/Images/bg.png" Stretch="Fill" Margin="0,0,0,0" />
+        <Grid x:Name="FIRSTHALF" 
+              Height="200"
+              Width="800"
+              VerticalAlignment="Top">
+            <Label Content="ATTENDANCE++" 
+                   HorizontalAlignment="Center" 
+                   VerticalContentAlignment="Stretch" 
+                   Margin="0,67,0,0" VerticalAlignment="Top" 
+                   FontSize="60" 
+                   FontWeight="DemiBold"/>
 
-            <Border 
+            <Label Content="An AI-Based Attendance System to make life ez" 
+                   HorizontalAlignment="Left" 
+                   VerticalContentAlignment="Stretch" 
+                   Margin="370,139,0,0" 
+                   VerticalAlignment="Top"
+                   Width="270"/>
+        </Grid>
+
+        <Grid x:Name="SECONDHALF" 
+              Height="300" 
+              VerticalAlignment="Bottom"
+              Background="Transparent" Margin="0,174,0,0">
+
+            <Grid Width="800">
+                <Label FontSize="20"
+                   Width="200"
+                   Height="50"
+                   VerticalAlignment="Top"
+                   Background="Transparent" Margin="202,0,398,0">TEACHER ID</Label>
+                <Border 
                     Padding="5" 
-                    BorderThickness="3"
+                    BorderThickness="2"
                     BorderBrush="DarkBlue" 
                     Background="White" 
                     CornerRadius="10" 
-                    Margin="201,3,232,207">
-                <TextBox HorizontalAlignment="Center"  
+                    Margin="210,41,290,199"
+                    Height="60"
+                    Width="300">
+                    <TextBox HorizontalAlignment="Left"  
                            VerticalAlignment="Top"
                            Width="346"
                         
                            Height="42"
                            FontFamily="Arial"
-                           FontSize="15"
+                           FontSize="20"
                            BorderThickness="0"
-                           x:Name="USERNAME" Margin="0,2,0,0"
+                           x:Name="USERNAME" Margin="22,10,0,0"
                          />
-            </Border>
-            <Border 
+                </Border>
+            </Grid>
+
+            <Grid Width="800">
+
+                <Label FontSize="20"
+                       Width="200"
+                       Height="50"
+                       VerticalAlignment="Top"
+                       Background="Transparent" Margin="202,101,398,0">PASSWORD</Label>
+                <Border 
                     Padding="5" 
-                    BorderThickness="3"
+                    BorderThickness="2"
                     BorderBrush="DarkBlue"
                     Background="White" 
                     CornerRadius="10" 
-                    Margin="201,106,232,107">
-                <TextBox HorizontalAlignment="Center" 
-                         VerticalAlignment="Center"
+                    Margin="210,141,290,99"
+                    Height="60"
+                    Width="300">
+
+                    <TextBox HorizontalAlignment="Left" 
+                         VerticalAlignment="Top"
                          Width="346"
                          Height="37"
                          FontFamily="Arial"
-                         FontSize="15"
+                         FontSize="20"
                          BorderThickness="0"
-                           x:Name="PASSWORD"
+                           x:Name="PASSWORD" Margin="22,10,0,0"
                              />
-            </Border>
-            <Button Width="100"
+                </Border>
+                <Button
                     Height="50" 
-                    Margin="468,189,232,31"
+                    Margin="420,217,290,33"
                     Content="Sign In"
+                    Width="90"
                     Foreground="White"
                     BorderBrush="white"
                     FontSize="18"
@@ -59,22 +99,21 @@
                     FontFamily="Arial"
                     FontWeight="DemiBold"
                     Click="Button_Click">
-                <Button.Resources>
-                    <Style TargetType="Border">
-                        <Setter Property="CornerRadius" Value="10"/>
-                    </Style>
-                </Button.Resources>
-                <Button.Background>
-                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                        <GradientStop Color="#FF2D89AF" Offset="1"/>
-                    </LinearGradientBrush>
-                </Button.Background>
-            </Button>
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF2D89AF" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+            </Grid>
+
         </Grid>
-        <Label Content="ATTENDANCE++" HorizontalAlignment="Center" Margin="0,67,0,0" VerticalAlignment="Top" FontSize="60" FontWeight="DemiBold"/>
-        <Label Content="Teacher ID" HorizontalAlignment="Left" Margin="189,168,0,0" VerticalAlignment="Top" FontWeight="DemiBold"/>
-        <Label Content="Password" HorizontalAlignment="Left" Margin="189,268,0,0" VerticalAlignment="Top" FontWeight="DemiBold"/>
-        <Label Content="An AI-Based Attendance System to make life ez" HorizontalAlignment="Left" Margin="354,138,0,0" VerticalAlignment="Top"/>
+
 
     </Grid>
 </Window>
