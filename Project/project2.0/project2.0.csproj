@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\bg.png" />
     <None Remove="Images\icons8-attendance-30.png" />
     <None Remove="Images\icons8-attendance-64.png" />
     <None Remove="Images\icons8-check-30.png" />
@@ -17,11 +18,10 @@
     <None Remove="Images\icons8-enter-50.png" />
     <None Remove="Images\icons8-home-50.png" />
     <None Remove="Images\icons8-log-out-30.png" />
-    <None Remove="Images\icons8-register-30.png" />
-    <None Remove="Images\Screenshot 2024-03-09 at 9.52.50 PM.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\bg.png" />
     <Resource Include="Images\icons8-attendance-30.png" />
     <Resource Include="Images\icons8-attendance-64.png" />
     <Resource Include="Images\icons8-check-30.png" />
@@ -29,8 +29,6 @@
     <Resource Include="Images\icons8-enter-50.png" />
     <Resource Include="Images\icons8-home-50.png" />
     <Resource Include="Images\icons8-log-out-30.png" />
-    <Resource Include="Images\icons8-register-30.png" />
-    <Resource Include="Images\Screenshot 2024-03-09 at 9.52.50 PM.png" />
   </ItemGroup>
 
 </Project>
