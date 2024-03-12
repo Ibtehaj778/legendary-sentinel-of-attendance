@@ -12,19 +12,33 @@
               Height="200"
               Width="800"
               VerticalAlignment="Top">
+
+
+            <Rectangle Margin="156,62,145,22" RadiusX="15" RadiusY="15" Stroke="Transparent">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#59FF3E" Offset="0"/>
+                        <GradientStop Color="#4199FF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+
             <Label Content="ATTENDANCE++" 
-                   HorizontalAlignment="Center" 
+                   FontFamily="Consolas"
+                   HorizontalAlignment="Left" 
                    VerticalContentAlignment="Stretch" 
-                   Margin="0,67,0,0" VerticalAlignment="Top" 
-                   FontSize="60" 
-                   FontWeight="DemiBold"/>
+                   Margin="193,72,0,0" VerticalAlignment="Top" 
+                   FontSize="67" 
+                   Foreground="DarkBlue"
+                   FontWeight="DemiBold" Width="447"/>
 
             <Label Content="An AI-Based Attendance System to make life ez" 
                    HorizontalAlignment="Left" 
                    VerticalContentAlignment="Stretch" 
-                   Margin="370,139,0,0" 
+                   Margin="354,139,0,0" 
                    VerticalAlignment="Top"
-                   Width="270"/>
+                   Width="286"/>
+
         </Grid>
 
         <Grid x:Name="SECONDHALF" 
@@ -36,15 +50,16 @@
                 <Label FontSize="20"
                    Width="200"
                    Height="50"
+                   FontFamily="Consolas"
                    VerticalAlignment="Top"
-                   Background="Transparent" Margin="202,0,398,0">TEACHER ID</Label>
+                   Background="Transparent" Margin="245,10,355,0">TEACHER ID</Label>
                 <Border 
                     Padding="5" 
                     BorderThickness="2"
                     BorderBrush="DarkBlue" 
                     Background="White" 
                     CornerRadius="10" 
-                    Margin="210,41,290,199"
+                    Margin="245,41,255,199"
                     Height="60"
                     Width="300">
                     <TextBox HorizontalAlignment="Left"  
@@ -52,10 +67,10 @@
                            Width="346"
                         
                            Height="42"
-                           FontFamily="Arial"
+                           FontFamily="Consolas"
                            FontSize="20"
                            BorderThickness="0"
-                           x:Name="USERNAME" Margin="22,10,0,0"
+                           x:Name="USERNAME" Margin="37,10,0,0"
                          />
                 </Border>
             </Grid>
@@ -66,14 +81,15 @@
                        Width="200"
                        Height="50"
                        VerticalAlignment="Top"
-                       Background="Transparent" Margin="202,101,398,0">PASSWORD</Label>
+                       FontFamily="Consolas"
+                       Background="Transparent" Margin="245,108,355,0">PASSWORD</Label>
                 <Border 
                     Padding="5" 
                     BorderThickness="2"
                     BorderBrush="DarkBlue"
                     Background="White" 
                     CornerRadius="10" 
-                    Margin="210,141,290,99"
+                    Margin="250,141,250,99"
                     Height="60"
                     Width="300">
 
@@ -81,7 +97,7 @@
                          VerticalAlignment="Top"
                          Width="346"
                          Height="37"
-                         FontFamily="Arial"
+                         FontFamily="Consolas"
                          FontSize="20"
                          BorderThickness="0"
                            x:Name="PASSWORD" Margin="22,10,0,0"
@@ -89,14 +105,14 @@
                 </Border>
                 <Button
                     Height="50" 
-                    Margin="420,217,290,33"
+                    Margin="460,223,250,27"
                     Content="Sign In"
                     Width="90"
                     Foreground="White"
                     BorderBrush="white"
                     FontSize="18"
                     BorderThickness="3px"
-                    FontFamily="Arial"
+                    FontFamily="Consolas"
                     FontWeight="DemiBold"
                     Click="Button_Click">
                     <Button.Resources>
