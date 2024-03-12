@@ -41,8 +41,8 @@
                         </Style>
                     </Button.Resources>
                     <StackPanel Orientation="Horizontal">
-                        <Image Source="/Images/icons8-home-50.png" Height="28" Width="48" Margin="0,0,0, 0"/>
-                        <TextBlock FontFamily="Arial" FontWeight="DemiBold" Text="HOME" Height="14"/>
+                        <Image Source="/Images/icons8-home-50.png" Height="28" Width="52"/>
+                        <TextBlock FontFamily="Consolas" FontSize="20px" FontWeight="DemiBold" Text="HOME" Height="23"/>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -58,7 +58,7 @@
                     </Button.Resources>
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Images/icons8-attendance-30.png" Height="25" Width="26" Margin="0,0,0, 0"/>
-                        <TextBlock FontFamily="Arial" FontWeight="DemiBold" Height="20" Margin="0, 5, 0, 0" ><Run Text="ATTENDANCE"/></TextBlock>
+                        <TextBlock FontSize="17px" FontFamily="Consolas" FontWeight="DemiBold" Height="20" Margin="0, 5, 0, 0" ><Run Text="ATTENDANCE"/></TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -74,7 +74,7 @@
                     </Button.Resources>
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Images/icons8-check-30.png"  Height="25" Width="23"  Margin="0,0,0,0"/>
-                        <TextBlock FontFamily="Arial" FontWeight="DemiBold" Height="14" >CHECK RECORDS</TextBlock>
+                        <TextBlock FontSize="15px" FontFamily="Consolas" FontWeight="DemiBold" Height="14" >CHECK RECORDS</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -90,7 +90,7 @@
                     </Button.Resources>
                     <StackPanel Orientation="Horizontal" Height="41" Width="144">
                         <Image Source="/Images/icons8-register-30.png" Height="25" Width="48" Margin="0,0,0, 0"/>
-                        <TextBlock FontFamily="Arial" FontWeight="Bold" Height="15" Width="102" ><Run Text="ADD NEW"/></TextBlock>
+                        <TextBlock FontSize="17px" FontFamily="Consolas" FontWeight="Bold" Height="22" Width="75" ><Run Text="ADD NEW"/></TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -105,7 +105,7 @@
                     </Button.Resources>
                     <StackPanel Orientation="Horizontal" Height="30">
                         <Image Source="/Images/icons8-delete-24.png"   Margin="0,0,0, 0" Height="26" Width="27"/>
-                        <TextBlock FontFamily="Arial" FontWeight="Bold" Height="15" >DELETE RECORD</TextBlock>
+                        <TextBlock FontSize="15px" FontFamily="Consolas" FontWeight="Bold" Height="15" >DELETE RECORD</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -125,7 +125,7 @@
                         </LinearGradientBrush>
                     </Button.Background>
                     <StackPanel >
-                        <TextBlock FontFamily="Arial" FontWeight="Bold" >ATTENDANCE++</TextBlock>
+                        <TextBlock FontSize="20px" FontFamily="Consolas" FontWeight="Bold" >ATTENDANCE++</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
@@ -147,20 +147,61 @@
                     </Button.Background>
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Images/icons8-log-out-30.png" Height="25" Width="35"/>
-                        <TextBlock FontFamily="Arial" Margin="0,0,0,0" FontWeight="DemiBold" Height="15" >LOG OUT</TextBlock>
+                        <TextBlock FontSize="17px" FontFamily="Consolas" Margin="0,0,0,0" FontWeight="DemiBold" Height="15" >LOG OUT</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>
         </Grid>
-        <Rectangle Fill="#D0c2c2c2" Margin="168,15,30,10" RadiusX="15" RadiusY="15"/>
+        <Grid>
+            <Rectangle Margin="168,15,30,10" RadiusX="15" RadiusY="15">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="2,2">
+                        <GradientStop Color="#D059FF3E" Offset="0"/>
+                        <GradientStop Color="#D04199FF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Grid>
+                <Rectangle Fill="#FFFF" Margin="183,33,46,240" RadiusX="15" RadiusY="15"/>
+                <Grid>
+                    <Label FontSize="20px" Content="Name: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,53,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Father Name: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,90,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="TeacherID: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,127,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Position: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,164,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Specilaization: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,201,0,0" VerticalAlignment="Top"/>
+                </Grid>
+                <Grid>
+                    <Label FontSize="20px" Content="Babar Azam" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,53,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Muhammad Azam" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="422,90,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="#565656" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,127,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Supervisor" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,164,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Data Science" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,201,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </Grid>
+            <Grid>
+                <Rectangle Fill="#FFFF" Margin="183,245,46,28" RadiusX="15" RadiusY="15"/>
+                <Grid>
+                    <Label FontSize="20px" Content="Campus: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,259,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Sections(s): " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,296,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Gender: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,333,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Email: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,370,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Mobile#: " FontFamily="Consolas" FontWeight="Bold" HorizontalAlignment="Left" Margin="205,407,0,0" VerticalAlignment="Top"/>
+                </Grid>
+                <Grid>
+                    <Label FontSize="20px" Content="Lahore " FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,259,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="BDS-4A, BDS-6A, BDS-8A" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,296,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="Male" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,333,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="t565656@lhr.nu.edu.pk" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="421,370,0,0" VerticalAlignment="Top"/>
+                    <Label FontSize="20px" Content="+92-331-2345678" FontFamily="Consolas" FontWeight="ExtraLight" HorizontalAlignment="Left" Margin="422,407,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </Grid>
+
+
+        </Grid>
+
 
 
     </Grid>
 </Page>
-
-    
-    
-    
-    
 
     
