@@ -28,8 +28,9 @@ namespace project2._0
         {
             name = USERNAME.Text;
             password = PASSWORD.Text;
-            string csvFilePath = "C:\\Users\\093a2\\Desktop\\practice\\project2.0\\project2.0\\Credentials.txt"; // Replace this with the path to your CSV file
-            bool isAuthenticated = false;
+			string csvFilePath = "C:\\Users\\093a2\\Desktop\\practice\\project2.0\\project2.0\\Credentials.txt"; // Replace this with the path to your CSV file
+			//string csvFilePath = "C:\\Users\\ahmed\\Desktop\\Legendary_Sentinel_of_Attendance-main\\Project\\project2.0\\Credentials.txt"; // Replace this with the path to your CSV file
+			bool isAuthenticated = false;
             bool halfAuthenticated = false;
 
             try
@@ -87,5 +88,15 @@ namespace project2._0
                 MessageBox.Show($"Error reading Credentials");
             }
         }
-    }
+
+		private void USERNAME_TextChanged(object sender, TextChangedEventArgs e)
+		{
+
+		}
+
+		private void PASSWORD_TextChanged(object sender, TextChangedEventArgs e)
+		{
+
+		}
+	}
 }

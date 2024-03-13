@@ -6,24 +6,24 @@
         xmlns:local="clr-namespace:project2._0"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="800">
-    <Grid Background="LightGray" >
-        <Image Source="/Images/bg.png" Stretch="Fill" Margin="0,0,0,0" />
-        <Grid x:Name="FIRSTHALF" 
+	<Grid Background="LightGray" >
+		<Image Source="/Images/bg.png" Stretch="Fill" Margin="0,0,0,0" />
+		<Grid x:Name="FIRSTHALF" 
               Height="200"
               Width="800"
               VerticalAlignment="Top">
 
 
-            <Rectangle Margin="156,62,145,22" RadiusX="15" RadiusY="15" Stroke="Transparent">
-                <Rectangle.Fill>
-                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-                        <GradientStop Color="#59FF3E" Offset="0"/>
-                        <GradientStop Color="#4199FF" Offset="1"/>
-                    </LinearGradientBrush>
-                </Rectangle.Fill>
-            </Rectangle>
+			<Rectangle Margin="156,62,145,22" RadiusX="15" RadiusY="15" Stroke="Transparent">
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+						<GradientStop Color="#59FF3E" Offset="0"/>
+						<GradientStop Color="#4199FF" Offset="1"/>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
 
-            <Label Content="ATTENDANCE++" 
+			<Label Content="ATTENDANCE++" 
                    FontFamily="Consolas"
                    HorizontalAlignment="Left" 
                    VerticalContentAlignment="Stretch" 
@@ -32,82 +32,78 @@
                    Foreground="DarkBlue"
                    FontWeight="DemiBold" Width="447"/>
 
-            <Label Content="An AI-Based Attendance System to make life ez" 
+			<Label Content="An AI-Based Attendance System to make life ez" 
                    HorizontalAlignment="Left" 
                    VerticalContentAlignment="Stretch" 
                    Margin="354,139,0,0" 
                    VerticalAlignment="Top"
                    Width="286"/>
 
-        </Grid>
+		</Grid>
 
-        <Grid x:Name="SECONDHALF" 
+		<Grid x:Name="SECONDHALF" 
               Height="300" 
               VerticalAlignment="Bottom"
               Background="Transparent" Margin="0,174,0,0">
 
-            <Grid Width="800">
-                <Label FontSize="20"
+			<Grid Width="800">
+				<Label FontSize="20"
                    Width="200"
                    Height="50"
                    FontFamily="Consolas"
                    VerticalAlignment="Top"
-                   Background="Transparent" Margin="245,10,355,0">TEACHER ID</Label>
-                <Border 
+                   Background="Transparent" Margin="157,10,443,0">TEACHER ID</Label>
+				<Border 
                     Padding="5" 
                     BorderThickness="2"
                     BorderBrush="DarkBlue" 
                     Background="White" 
                     CornerRadius="10" 
-                    Margin="245,41,255,199"
-                    Height="60"
-                    Width="300">
-                    <TextBox HorizontalAlignment="Left"  
+                    Margin="156,41,141,199"
+                    Height="60">
+					<TextBox HorizontalAlignment="Left"  
                            VerticalAlignment="Top"
-                           Width="346"
-                        
-                           Height="42"
+                           Width="495"
+                           Height="38"
                            FontFamily="Consolas"
                            FontSize="20"
                            BorderThickness="0"
-                           x:Name="USERNAME" Margin="37,10,0,0"
+                           x:Name="USERNAME" Margin="1,13,0,0" TextChanged="USERNAME_TextChanged"
                          />
-                </Border>
-            </Grid>
+				</Border>
+			</Grid>
 
-            <Grid Width="800">
+			<Grid Width="800">
 
-                <Label FontSize="20"
+				<Label FontSize="20"
                        Width="200"
                        Height="50"
                        VerticalAlignment="Top"
                        FontFamily="Consolas"
-                       Background="Transparent" Margin="245,108,355,0">PASSWORD</Label>
-                <Border 
+                       Background="Transparent" Margin="159,108,441,0">PASSWORD</Label>
+				<Border 
                     Padding="5" 
                     BorderThickness="2"
                     BorderBrush="DarkBlue"
                     Background="White" 
                     CornerRadius="10" 
-                    Margin="250,141,250,99"
-                    Height="60"
-                    Width="300">
+                    Margin="158,141,139,99"
+                    Height="60">
 
-                    <TextBox HorizontalAlignment="Left" 
+					<TextBox HorizontalAlignment="Center" 
                          VerticalAlignment="Top"
-                         Width="346"
-                         Height="37"
+                         Width="483"
+                         Height="40"
                          FontFamily="Consolas"
                          FontSize="20"
                          BorderThickness="0"
-                           x:Name="PASSWORD" Margin="22,10,0,0"
+                           x:Name="PASSWORD" Margin="0,13,0,0" TextChanged="PASSWORD_TextChanged"
                              />
-                </Border>
-                <Button
+				</Border>
+				<Button
                     Height="50" 
-                    Margin="460,223,250,27"
+                    Margin="565,223,139,27"
                     Content="Sign In"
-                    Width="90"
                     Foreground="White"
                     BorderBrush="white"
                     FontSize="18"
@@ -115,21 +111,22 @@
                     FontFamily="Consolas"
                     FontWeight="DemiBold"
                     Click="Button_Click">
-                    <Button.Resources>
-                        <Style TargetType="Border">
-                            <Setter Property="CornerRadius" Value="10"/>
-                        </Style>
-                    </Button.Resources>
-                    <Button.Background>
-                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                            <GradientStop Color="#FF2D89AF" Offset="1"/>
-                        </LinearGradientBrush>
-                    </Button.Background>
-                </Button>
-            </Grid>
+					<Button.Resources>
+						<Style TargetType="Border">
+							<Setter Property="CornerRadius" Value="10"/>
+						</Style>
+					</Button.Resources>
+					<Button.Background>
+						<LinearGradientBrush EndPoint="1,1" StartPoint="0,0">
+							<GradientStop Color="#FF1A6AC6" Offset="0"/>
+							<GradientStop Color="#FF22B200" Offset="1"/>
+						</LinearGradientBrush>
+					</Button.Background>
+				</Button>
+			</Grid>
 
-        </Grid>
+		</Grid>
 
 
-    </Grid>
+	</Grid>
 </Window>
