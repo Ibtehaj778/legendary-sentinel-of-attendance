@@ -37,6 +37,7 @@
 			this.button6 = new System.Windows.Forms.Button();
 			this.button5 = new System.Windows.Forms.Button();
 			this.button4 = new System.Windows.Forms.Button();
+			this.authenticator1 = new WindowsFormsApp1.Authenticator();
 			this.registerNew2 = new WindowsFormsApp1.RegisterNew();
 			this.attendancepp1 = new WindowsFormsApp1.Attendancepp();
 			this.panel1.SuspendLayout();
@@ -44,11 +45,6 @@
 			// 
 			// panel1
 			// 
-			this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-			this.panel1.AutoScroll = true;
-			this.panel1.AutoScrollMargin = new System.Drawing.Size(110, 10);
 			this.panel1.BackColor = System.Drawing.Color.Transparent;
 			this.panel1.Controls.Add(this.button8);
 			this.panel1.Controls.Add(this.button9);
@@ -57,30 +53,28 @@
 			this.panel1.Controls.Add(this.button6);
 			this.panel1.Controls.Add(this.button5);
 			this.panel1.Controls.Add(this.button4);
-			this.panel1.Location = new System.Drawing.Point(-12, -1);
+			this.panel1.Location = new System.Drawing.Point(1, 1);
 			this.panel1.Name = "panel1";
-			this.panel1.Padding = new System.Windows.Forms.Padding(10, 0, 0, 10);
-			this.panel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-			this.panel1.Size = new System.Drawing.Size(239, 494);
-			this.panel1.TabIndex = 9;
-			this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+			this.panel1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+			this.panel1.Size = new System.Drawing.Size(227, 472);
+			this.panel1.TabIndex = 13;
 			// 
 			// button8
 			// 
 			this.button8.AllowDrop = true;
 			this.button8.AutoSize = true;
-			this.button8.BackColor = System.Drawing.Color.Purple;
+			this.button8.BackColor = System.Drawing.Color.SkyBlue;
 			this.button8.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.button8.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button8.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-			this.button8.Location = new System.Drawing.Point(18, 312);
+			this.button8.ForeColor = System.Drawing.Color.Black;
+			this.button8.Location = new System.Drawing.Point(18, 143);
 			this.button8.Margin = new System.Windows.Forms.Padding(2);
 			this.button8.Name = "button8";
-			this.button8.Size = new System.Drawing.Size(190, 73);
-			this.button8.TabIndex = 11;
+			this.button8.Size = new System.Drawing.Size(190, 65);
+			this.button8.TabIndex = 18;
 			this.button8.Text = "ATTENDANCE++";
 			this.button8.UseVisualStyleBackColor = false;
-			this.button8.Click += new System.EventHandler(this.button8_Click);
+			this.button8.Click += new System.EventHandler(this.button8_Click_1);
 			// 
 			// button9
 			// 
@@ -91,14 +85,13 @@
 			this.button9.Enabled = false;
 			this.button9.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button9.ForeColor = System.Drawing.SystemColors.WindowFrame;
-			this.button9.Location = new System.Drawing.Point(18, 389);
+			this.button9.Location = new System.Drawing.Point(18, 350);
 			this.button9.Margin = new System.Windows.Forms.Padding(2);
 			this.button9.Name = "button9";
-			this.button9.Size = new System.Drawing.Size(190, 73);
-			this.button9.TabIndex = 10;
+			this.button9.Size = new System.Drawing.Size(190, 65);
+			this.button9.TabIndex = 17;
 			this.button9.Text = "FEEDBACK";
 			this.button9.UseVisualStyleBackColor = false;
-			this.button9.Click += new System.EventHandler(this.button9_Click);
 			// 
 			// button11
 			// 
@@ -106,16 +99,16 @@
 			this.button11.AutoSize = true;
 			this.button11.BackColor = System.Drawing.Color.Crimson;
 			this.button11.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button11.Enabled = false;
 			this.button11.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button11.ForeColor = System.Drawing.SystemColors.Control;
-			this.button11.Location = new System.Drawing.Point(18, 466);
+			this.button11.Location = new System.Drawing.Point(18, 419);
 			this.button11.Margin = new System.Windows.Forms.Padding(2);
 			this.button11.Name = "button11";
-			this.button11.Size = new System.Drawing.Size(190, 55);
-			this.button11.TabIndex = 8;
+			this.button11.Size = new System.Drawing.Size(190, 50);
+			this.button11.TabIndex = 16;
 			this.button11.Text = "LOG OUT";
 			this.button11.UseVisualStyleBackColor = false;
+			this.button11.Click += new System.EventHandler(this.button11_Click);
 			// 
 			// button7
 			// 
@@ -127,8 +120,8 @@
 			this.button7.Location = new System.Drawing.Point(18, 5);
 			this.button7.Margin = new System.Windows.Forms.Padding(2);
 			this.button7.Name = "button7";
-			this.button7.Size = new System.Drawing.Size(190, 73);
-			this.button7.TabIndex = 7;
+			this.button7.Size = new System.Drawing.Size(190, 65);
+			this.button7.TabIndex = 15;
 			this.button7.Text = "HOME";
 			this.button7.UseVisualStyleBackColor = false;
 			// 
@@ -141,14 +134,13 @@
 			this.button6.Enabled = false;
 			this.button6.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button6.ForeColor = System.Drawing.SystemColors.WindowFrame;
-			this.button6.Location = new System.Drawing.Point(18, 82);
+			this.button6.Location = new System.Drawing.Point(18, 212);
 			this.button6.Margin = new System.Windows.Forms.Padding(2);
 			this.button6.Name = "button6";
-			this.button6.Size = new System.Drawing.Size(190, 73);
-			this.button6.TabIndex = 6;
+			this.button6.Size = new System.Drawing.Size(190, 65);
+			this.button6.TabIndex = 14;
 			this.button6.Text = "MANUAL ATTENDANCE";
 			this.button6.UseVisualStyleBackColor = false;
-			this.button6.Click += new System.EventHandler(this.button6_Click);
 			// 
 			// button5
 			// 
@@ -159,14 +151,13 @@
 			this.button5.Enabled = false;
 			this.button5.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button5.ForeColor = System.Drawing.SystemColors.WindowFrame;
-			this.button5.Location = new System.Drawing.Point(21, 157);
+			this.button5.Location = new System.Drawing.Point(18, 281);
 			this.button5.Margin = new System.Windows.Forms.Padding(2);
 			this.button5.Name = "button5";
-			this.button5.Size = new System.Drawing.Size(187, 73);
-			this.button5.TabIndex = 5;
+			this.button5.Size = new System.Drawing.Size(190, 65);
+			this.button5.TabIndex = 13;
 			this.button5.Text = "CHECK RECORD";
 			this.button5.UseVisualStyleBackColor = false;
-			this.button5.Click += new System.EventHandler(this.button5_Click);
 			// 
 			// button4
 			// 
@@ -175,14 +166,23 @@
 			this.button4.BackColor = System.Drawing.Color.SkyBlue;
 			this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.button4.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button4.Location = new System.Drawing.Point(18, 236);
+			this.button4.Location = new System.Drawing.Point(18, 74);
 			this.button4.Margin = new System.Windows.Forms.Padding(2);
 			this.button4.Name = "button4";
-			this.button4.Size = new System.Drawing.Size(190, 73);
-			this.button4.TabIndex = 4;
+			this.button4.Size = new System.Drawing.Size(190, 65);
+			this.button4.TabIndex = 12;
 			this.button4.Text = "REGISTER NEW";
 			this.button4.UseVisualStyleBackColor = false;
-			this.button4.Click += new System.EventHandler(this.button4_Click);
+			this.button4.Click += new System.EventHandler(this.button4_Click_1);
+			// 
+			// authenticator1
+			// 
+			this.authenticator1.BackColor = System.Drawing.Color.Transparent;
+			this.authenticator1.Location = new System.Drawing.Point(234, 13);
+			this.authenticator1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+			this.authenticator1.Name = "authenticator1";
+			this.authenticator1.Size = new System.Drawing.Size(701, 448);
+			this.authenticator1.TabIndex = 12;
 			// 
 			// registerNew2
 			// 
@@ -210,9 +210,10 @@
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.bg2__2_;
 			this.ClientSize = new System.Drawing.Size(947, 471);
+			this.Controls.Add(this.panel1);
+			this.Controls.Add(this.authenticator1);
 			this.Controls.Add(this.registerNew2);
 			this.Controls.Add(this.attendancepp1);
-			this.Controls.Add(this.panel1);
 			this.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.Margin = new System.Windows.Forms.Padding(2);
@@ -228,16 +229,17 @@
 		}
 
 		#endregion
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button11;
 		private Attendancepp attendancepp1;
 		private RegisterNew registerNew2;
+		private Authenticator authenticator1;
+		private System.Windows.Forms.Panel panel1;
+		private System.Windows.Forms.Button button8;
+		private System.Windows.Forms.Button button9;
+		private System.Windows.Forms.Button button11;
+		private System.Windows.Forms.Button button7;
+		private System.Windows.Forms.Button button6;
+		private System.Windows.Forms.Button button5;
+		private System.Windows.Forms.Button button4;
 	}
 }
 

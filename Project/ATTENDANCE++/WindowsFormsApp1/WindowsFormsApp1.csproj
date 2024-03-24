@@ -80,6 +80,12 @@
     <Compile Include="Attendancepp.Designer.cs">
       <DependentUpon>Attendancepp.cs</DependentUpon>
     </Compile>
+    <Compile Include="Authenticator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Authenticator.Designer.cs">
+      <DependentUpon>Authenticator.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,9 @@
     </Compile>
     <EmbeddedResource Include="Attendancepp.resx">
       <DependentUpon>Attendancepp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authenticator.resx">
+      <DependentUpon>Authenticator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

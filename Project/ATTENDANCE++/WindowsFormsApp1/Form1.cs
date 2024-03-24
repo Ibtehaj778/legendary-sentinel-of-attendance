@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
 			registerNew2.Hide();
 			attendancepp1.Hide();
+			authenticator1.Show();
 		}
 
 
@@ -48,9 +49,17 @@ namespace WindowsFormsApp1
 
 		private void button4_Click(object sender, EventArgs e)
 		{
-			registerNew2.Hide();
-			attendancepp1.Hide();
-			registerNew2.Show();
+			if (authenticator1.isPassed == true)
+			{
+				registerNew2.Hide();
+				attendancepp1.Hide();
+				authenticator1.Hide();
+				registerNew2.Show();
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
 		}
 
 		private void registerNew1_Load(object sender, EventArgs e)
@@ -60,9 +69,17 @@ namespace WindowsFormsApp1
 
 		private void button8_Click(object sender, EventArgs e)
 		{
-			registerNew2.Hide();
-			attendancepp1.Hide();
-			attendancepp1.Show();
+			if(authenticator1.isPassed == true)
+			{
+				registerNew2.Hide();
+				attendancepp1.Hide();
+				authenticator1.Hide();
+				attendancepp1.Show();
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
 		}
 
 		private void Form1_Load(object sender, EventArgs e)
@@ -81,6 +98,58 @@ namespace WindowsFormsApp1
 		}
 
 		private void registerNew2_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void button4_Click_1(object sender, EventArgs e)
+		{
+			if (authenticator1.isPassed == true)
+			{
+				registerNew2.Hide();
+				attendancepp1.Hide();
+				authenticator1.Hide();
+				registerNew2.Show();
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
+		}
+
+		private void button8_Click_1(object sender, EventArgs e)
+		{
+			if (authenticator1.isPassed == true)
+			{
+				registerNew2.Hide();
+				attendancepp1.Hide();
+				authenticator1.Hide();
+				attendancepp1.Show();
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
+		}
+
+		private void button11_Click(object sender, EventArgs e)
+		{
+			if (authenticator1.isPassed == true)
+			{
+				registerNew2.Hide();
+				attendancepp1.Hide();
+				authenticator1.Show();
+				authenticator1.ResetText();
+				authenticator1.isPassed = false;
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
+
+		}
+
+		private void authenticator1_Load(object sender, EventArgs e)
 		{
 
 		}
