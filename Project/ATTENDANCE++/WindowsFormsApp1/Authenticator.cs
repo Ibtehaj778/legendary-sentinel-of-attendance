@@ -27,10 +27,11 @@ namespace WindowsFormsApp1
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			if (richTextBox1.Text == "Admin" && richTextBox2.Text == "Admin123")
+			if (true/*richTextBox1.Text == "Admin" && richTextBox2.Text == "Admin123"*/)
 			{
 				MessageBox.Show("Authentication Passed");
 				this.Hide();
+				
 				isPassed = true;
 			}
 			else

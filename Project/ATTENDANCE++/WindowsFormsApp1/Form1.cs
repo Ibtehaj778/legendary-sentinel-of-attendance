@@ -21,9 +21,11 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
-			registerNew2.Hide();
-			attendancepp1.Hide();
+			registerNew1.Hide();
+			attendancepp2.Hide();
+            panel1.Hide();
 			authenticator1.Show();
+            
 		}
 
 
@@ -51,11 +53,12 @@ namespace WindowsFormsApp1
 		{
 			if (authenticator1.isPassed == true)
 			{
-				registerNew2.Hide();
-				attendancepp1.Hide();
+				registerNew1.Hide();
+				attendancepp2.Hide();
 				authenticator1.Hide();
 				registerNew2.Show();
-			}
+                panel1.Show();
+            }
 			else
 			{
 				MessageBox.Show("Authentication Uncleared");
@@ -71,16 +74,17 @@ namespace WindowsFormsApp1
 		{
 			if(authenticator1.isPassed == true)
 			{
-				registerNew2.Hide();
-				attendancepp1.Hide();
+				registerNew1.Hide();
+				attendancepp2.Hide();
 				authenticator1.Hide();
-				attendancepp1.Show();
-			}
+				attendancepp1.Show(); panel1.Show();
+            }
 			else
 			{
 				MessageBox.Show("Authentication Uncleared");
 			}
 		}
+
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
@@ -107,10 +111,10 @@ namespace WindowsFormsApp1
 			if (authenticator1.isPassed == true)
 			{
 				registerNew2.Hide();
-				attendancepp1.Hide();
+				attendancepp2.Hide();
 				authenticator1.Hide();
-				registerNew2.Show();
-			}
+				registerNew2.Show(); panel1.Show();
+            }
 			else
 			{
 				MessageBox.Show("Authentication Uncleared");
@@ -122,10 +126,11 @@ namespace WindowsFormsApp1
 			if (authenticator1.isPassed == true)
 			{
 				registerNew2.Hide();
-				attendancepp1.Hide();
+				attendancepp2.Hide();
 				authenticator1.Hide();
-				attendancepp1.Show();
-			}
+				attendancepp1.Show(); 
+				panel1.Show();
+            }
 			else
 			{
 				MessageBox.Show("Authentication Uncleared");
@@ -137,11 +142,12 @@ namespace WindowsFormsApp1
 			if (authenticator1.isPassed == true)
 			{
 				registerNew2.Hide();
-				attendancepp1.Hide();
+				attendancepp2.Hide();
 				authenticator1.Show();
 				authenticator1.ResetText();
 				authenticator1.isPassed = false;
-			}
+                panel1.Hide();
+            }
 			else
 			{
 				MessageBox.Show("Authentication Uncleared");
@@ -153,6 +159,24 @@ namespace WindowsFormsApp1
 		{
 
 		}
-	}
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+			if (button1.Text == "OpenMenu" && authenticator1.isPassed == true)
+			{
+				panel1.Show();
+				button1.Text = "HideMenu";
+			}
+			else if (button1.Text == "HideMenu" && authenticator1.isPassed == true)
+			{
+				panel1.Hide();
+				button1.Text = "OpenMenu";
+			}
+			else
+            {
+				MessageBox.Show("Authentication Unclear");
+            }
+        }
+    }
 }
 
