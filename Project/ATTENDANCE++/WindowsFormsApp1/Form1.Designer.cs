@@ -119,11 +119,11 @@
             // 
             this.button7.AllowDrop = true;
             this.button7.AutoSize = true;
-            this.button7.BackColor = System.Drawing.Color.SkyBlue;
-            this.button7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button7.BackgroundImage")));
+            this.button7.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.button7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button7.Enabled = false;
             this.button7.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.ForeColor = System.Drawing.Color.White;
+            this.button7.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.button7.Location = new System.Drawing.Point(18, 5);
             this.button7.Margin = new System.Windows.Forms.Padding(2);
             this.button7.Name = "button7";
@@ -209,19 +209,19 @@
             // attendancepp2
             // 
             this.attendancepp2.BackColor = System.Drawing.Color.Transparent;
-            this.attendancepp2.Location = new System.Drawing.Point(234, 6);
+            this.attendancepp2.Location = new System.Drawing.Point(228, 6);
             this.attendancepp2.Margin = new System.Windows.Forms.Padding(2);
             this.attendancepp2.Name = "attendancepp2";
-            this.attendancepp2.Size = new System.Drawing.Size(701, 455);
+            this.attendancepp2.Size = new System.Drawing.Size(707, 455);
             this.attendancepp2.TabIndex = 14;
             // 
             // authenticator1
             // 
             this.authenticator1.BackColor = System.Drawing.Color.Transparent;
-            this.authenticator1.Location = new System.Drawing.Point(19, 13);
+            this.authenticator1.Location = new System.Drawing.Point(213, 13);
             this.authenticator1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.authenticator1.Name = "authenticator1";
-            this.authenticator1.Size = new System.Drawing.Size(916, 448);
+            this.authenticator1.Size = new System.Drawing.Size(722, 448);
             this.authenticator1.TabIndex = 12;
             // 
             // registerNew2
@@ -251,12 +251,12 @@
             this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.bg2__2_;
             this.ClientSize = new System.Drawing.Size(949, 479);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.registerNew1);
-            this.Controls.Add(this.attendancepp2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.authenticator1);
             this.Controls.Add(this.registerNew2);
             this.Controls.Add(this.attendancepp1);
+            this.Controls.Add(this.registerNew1);
+            this.Controls.Add(this.attendancepp2);
             this.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2);

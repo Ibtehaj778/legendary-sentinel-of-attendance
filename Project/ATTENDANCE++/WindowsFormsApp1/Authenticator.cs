@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
+
 
 namespace WindowsFormsApp1
 {
@@ -20,14 +22,15 @@ namespace WindowsFormsApp1
 			InitializeComponent();
 		}
 
-		private void label1_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
 		{
 
 		}
+        public string password = "";
 
-		private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
 		{
-			if (true/*richTextBox1.Text == "Admin" && richTextBox2.Text == "Admin123"*/)
+			if (true/*richTextBox1.Text == "Admin" && password == "Admin123"*/)
 			{
 				MessageBox.Show("Authentication Passed");
 				this.Hide();
@@ -51,5 +54,21 @@ namespace WindowsFormsApp1
 			this.richTextBox2.Text = "";
 		}
 
-	}
+
+        private void richTextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+			
+		}
+
+        private void richTextBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+			if (char.IsLetterOrDigit(e.KeyChar) || char.IsPunctuation(e.KeyChar))
+			{
+				password += e.KeyChar;
+				richTextBox2.AppendText(e.KeyChar + "");
+				e.Handled = true;
+			}
+		}
+    }
 }

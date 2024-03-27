@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using FaceRecognition;
 using System.Runtime.InteropServices;
-//using MyFaceRec.cs;
 
 
 namespace WindowsFormsApp1

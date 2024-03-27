@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using FaceRecognition;
-//using MyFaceRec;
 
 
 namespace WindowsFormsApp1
@@ -20,7 +19,7 @@ namespace WindowsFormsApp1
 			InitializeComponent();
 		}
 		FaceRec faceRec = new FaceRec();
-        char ctr = '1';
+		char ctr = '1';
 
 		private void label5_Click(object sender, EventArgs e)
 		{
