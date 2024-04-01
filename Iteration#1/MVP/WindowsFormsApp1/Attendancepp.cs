@@ -18,6 +18,8 @@ namespace WindowsFormsApp1
 		public Attendancepp()
 		{
 			InitializeComponent();
+			button3.Enabled = false;
+			button10.Enabled = false;
 		}
 		FaceRec faceRec = new FaceRec();
 		char ctr = '1';
@@ -26,6 +28,7 @@ namespace WindowsFormsApp1
 		{
 			faceRec.openCamera(pictureBox1, pictureBox2);
 			button3.Enabled = true;
+			button10.Enabled = true;
 		}
 
 
@@ -41,7 +44,8 @@ namespace WindowsFormsApp1
 			faceRec.getPersonName(label3);
 			button1.Enabled = false;
 			button3.Enabled = false;
-		}
+            faceRec.Dispose();
+        }
 
 		private void button10_Click(object sender, EventArgs e)
 		{

@@ -26,13 +26,12 @@ namespace WindowsFormsApp1
 		{
 
 		}
-        public string password = "";
+
 
         private void button1_Click(object sender, EventArgs e)
 		{
-			if (true/*richTextBox1.Text == "Admin" && password == "Admin123"*/)
+			if (richTextBox1.Text == "Admin" && richTextBox2.Text == "Admin123")
 			{
-				MessageBox.Show("Authentication Passed");
 				this.Hide();
 				
 				isPassed = true;
@@ -63,12 +62,7 @@ namespace WindowsFormsApp1
 
         private void richTextBox2_KeyPress(object sender, KeyPressEventArgs e)
         {
-			if (char.IsLetterOrDigit(e.KeyChar) || char.IsPunctuation(e.KeyChar))
-			{
-				password += e.KeyChar;
-				richTextBox2.AppendText(e.KeyChar + "");
-				e.Handled = true;
-			}
+	
 		}
     }
 }

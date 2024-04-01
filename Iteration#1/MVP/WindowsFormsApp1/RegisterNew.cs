@@ -1,4 +1,8 @@
 ﻿using System;
+using Emgu.CV;
+using Emgu.CV.UI;
+using Emgu.CV.Structure;
+using Emgu.CV.Face;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,13 +14,17 @@ using System.Windows.Forms;
 using FaceRecognition;
 
 
+
 namespace WindowsFormsApp1
 {
-	public partial class RegisterNew : UserControl
+    public partial class RegisterNew : UserControl
 	{
-		public RegisterNew()
+		public Capture _capture;
+        public RegisterNew()
 		{
 			InitializeComponent();
+			button3.Enabled = false;
+			button10.Enabled = false;
 		}
 		FaceRec faceRec = new FaceRec();
 		char ctr = '1';
@@ -35,8 +43,12 @@ namespace WindowsFormsApp1
 		{
 			faceRec.openCamera(pictureBox1, pictureBox2);
 			pictureBox2.Hide();
-			richTextBox1.Enabled = true;
+			_capture = new Capture();
+            _capture.Start();
+
+            richTextBox1.Enabled = true;
 			button3.Enabled = true;
+			button10.Enabled = true;
 		}
 
 		private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -46,9 +58,10 @@ namespace WindowsFormsApp1
 
 		private void button3_Click(object sender, EventArgs e)
 		{
-			if (richTextBox1.Text == null)
+			if (richTextBox1.Text == "")
 			{
 				label3.Text = "Image Failed";
+				MessageBox.Show("Image Failed");
 				return;
 			}
 
@@ -64,7 +77,7 @@ namespace WindowsFormsApp1
 
 		private void button10_Click(object sender, EventArgs e)
 		{
-
+			faceRec.Dispose();
 		}
 	}
 }
