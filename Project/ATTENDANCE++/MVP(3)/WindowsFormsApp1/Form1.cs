@@ -17,21 +17,22 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        
+		public string teacherID;
+
         public Form1()
         {
             InitializeComponent();
-			dashboard1.Hide();
 			registerNew1.Hide();
-			//registerNew2.Hide();
+			dashboard1.Hide();
 			attendancepp1.Hide();
 			attendancepp2.Hide();
-            panel1.Hide();
+			panel1.Hide();
 			attendance_Graph1.Hide();
 			authenticator1.Hide();
 
             authenticator1.Show();
-			label1.Text = "Date:" + (DateTime.Now.ToString()).Substring(0, 10);
+			dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+            label1.Text = "Date:" + (DateTime.Now.ToString()).Substring(0, 10);
 
 		}
 
@@ -39,16 +40,19 @@ namespace WindowsFormsApp1
         {
             if (authenticator1.isPassed == true)
             {
-				registerNew1.Hide();
-				registerNew2.Hide();
-				attendancepp1.Hide();
-				attendancepp2.Hide();
-				panel1.Hide();
-				dashboard1.Hide();
-				attendance_Graph1.Hide();
-				authenticator1.Hide();
+                dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+                dashboard1.fetchdetails();
+                dashboard1.Hide();
+                registerNew1.Hide();
+                attendancepp1.Hide();
+                attendancepp2.Hide();
+                panel1.Hide();
+                registerNew2.Hide();
+                attendance_Graph1.Hide();
+                authenticator1.Hide();
 
-				dashboard1.Show();
+
+                dashboard1.Show();
                 panel1.Show();
             }
             else
@@ -61,16 +65,18 @@ namespace WindowsFormsApp1
 		{
 			if (authenticator1.isPassed == true)
 			{
-				registerNew1.Hide();
-				registerNew2.Hide();
-				attendancepp1.Hide();
-				attendancepp2.Hide();
-				panel1.Hide();
-				dashboard1.Hide();
-				attendance_Graph1.Hide();
-				authenticator1.Hide();
+                dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+                dashboard1.Hide();
+                registerNew1.Hide();
+                attendancepp1.Hide();
+                attendancepp2.Hide();
+                panel1.Hide();
+                registerNew2.Hide();
+                attendance_Graph1.Hide();
+                authenticator1.Hide();
 
-				registerNew2.Show(); 
+
+                registerNew2.Show(); 
 				panel1.Show();
             }
 			else
@@ -83,16 +89,18 @@ namespace WindowsFormsApp1
 		{
 			if (authenticator1.isPassed == true)
 			{
-				registerNew1.Hide();
-				registerNew2.Hide();
-				attendancepp1.Hide();
-				attendancepp2.Hide();
-				panel1.Hide();
-				dashboard1.Hide();
-				attendance_Graph1.Hide();
-				authenticator1.Hide();
+                dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+                dashboard1.Hide();
+                registerNew1.Hide();
+                attendancepp1.Hide();
+                attendancepp2.Hide();
+                panel1.Hide();
+                registerNew2.Hide();
+                attendance_Graph1.Hide();
+                authenticator1.Hide();
 
-				attendancepp1.Show(); 
+
+                attendancepp1.Show(); 
 				panel1.Show();
             }
 			else
@@ -105,23 +113,27 @@ namespace WindowsFormsApp1
 		{
 			if (authenticator1.isPassed == true)
 			{
-				registerNew1.Hide();
-				registerNew2.Hide();
-				attendancepp1.Hide();
-				attendancepp2.Hide();
-				panel1.Hide();
-				dashboard1.Hide();
-				attendance_Graph1.Hide();
-				authenticator1.Hide();
+                dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+                dashboard1.Hide();
+                registerNew1.Hide();
+                attendancepp1.Hide();
+                attendancepp2.Hide();
+                panel1.Hide();
+                registerNew2.Hide();
+                attendance_Graph1.Hide();
+                authenticator1.Hide();
 
-				authenticator1.Show();
+
+                authenticator1.Show();
 				authenticator1.isPassed = false;
 
 				if (!authenticator1.isSave())
 				{
-					authenticator1.reset(sender, e);
+					authenticator1.reset();
 				}
-				panel1.Hide();
+
+				button1.Text = "OpenMenu";
+                attendance_Graph1.chart1.Series.Clear();
             }
 			else
 			{
@@ -153,16 +165,19 @@ namespace WindowsFormsApp1
 		{
 			if (authenticator1.isPassed == true)
 			{
-				registerNew1.Hide();
-				registerNew2.Hide();
-				attendancepp1.Hide();
-				attendancepp2.Hide();
-				panel1.Hide();
-				dashboard1.Hide();
-				attendance_Graph1.Hide();
-				authenticator1.Hide();
+                dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+                attendance_Graph1.formgraph(dashboard1.label10.Text);
+                dashboard1.Hide();
+                registerNew1.Hide();
+                attendancepp1.Hide();
+                attendancepp2.Hide();
+                panel1.Hide();
+                registerNew2.Hide();
+                attendance_Graph1.Hide();
+                authenticator1.Hide();
 
-				attendance_Graph1.Show();
+
+                attendance_Graph1.Show();
 				panel1.Show();
 			}
 			else
@@ -170,16 +185,6 @@ namespace WindowsFormsApp1
 				MessageBox.Show("Authentication Uncleared");
 			}
 		}
-
-		private void dashboard1_Load(object sender, EventArgs e)
-		{
-
-		}
-
-		private void authenticator1_Load(object sender, EventArgs e)
-		{
-
-		}
-	}
+    }
 }
 

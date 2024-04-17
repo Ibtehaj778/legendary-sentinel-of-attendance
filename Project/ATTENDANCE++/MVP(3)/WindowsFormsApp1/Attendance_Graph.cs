@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,20 +16,70 @@ namespace WindowsFormsApp1
         public Attendance_Graph()
         {
             InitializeComponent();
-			chart1.Series["COAL"].Points.AddXY("January", "12");
-			chart1.Series["COAL"].Points.AddXY("February", "18");
-			chart1.Series["COAL"].Points.AddXY("March", "28");
-			chart1.Series["COAL"].Points.AddXY("April", "28");
-			chart1.Series["COAL"].Points.AddXY("May", "25");
-
-			chart1.Series["DSA"].Points.AddXY("January", "9");
-			chart1.Series["DSA"].Points.AddXY("February", "23");
-			chart1.Series["DSA"].Points.AddXY("March", "25");
-			chart1.Series["DSA"].Points.AddXY("April", "22");
-			chart1.Series["DSA"].Points.AddXY("May", "21");
+			
 		}
 
-		private void chart1_Click(object sender, EventArgs e)
+
+        public void formgraph(string teacherID)
+        {
+            string fp = Path.Combine(Application.StartupPath, "Graphs.txt");
+
+            List<List<object>> csvData = ReadCSVFile(fp);
+
+            try
+            {
+
+                foreach (List<object> row in csvData)
+                {
+                    if ((string)row[0] == teacherID)
+                    {
+                        chart1.Series.Add((string)row[1]);
+                        chart1.Series[(string)row[1]].Points.AddXY("January", (string)row[2]);
+                        chart1.Series[(string)row[1]].Points.AddXY("February", (string)row[3]);
+                        chart1.Series[(string)row[1]].Points.AddXY("March", (string)row[4]);
+                        chart1.Series[(string)row[1]].Points.AddXY("April", (string)row[5]);
+                        chart1.Series[(string)row[1]].Points.AddXY("May", (string)row[6]);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+            }
+
+        }
+
+        static List<List<object>> ReadCSVFile(string filePath)
+        {
+            List<List<object>> data = new List<List<object>>();
+
+            try
+            {
+                using (StreamReader reader = new StreamReader(filePath))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        string[] values = line.Split(',');
+
+                        List<object> row = new List<object>();
+                        foreach (string value in values)
+                        {
+                            row.Add(value.Trim());
+                        }
+
+                        data.Add(row);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error reading file: " + ex.Message);
+            }
+
+            return data;
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
 		{
 
 		}

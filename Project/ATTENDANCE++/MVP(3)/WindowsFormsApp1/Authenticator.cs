@@ -88,6 +88,7 @@ namespace WindowsFormsApp1
             {
                 this.Hide();
                 isPassed = true;
+                
             }
             else
             {
@@ -95,7 +96,7 @@ namespace WindowsFormsApp1
             }
         }
 
-        public void reset(object sender, EventArgs e)
+        public void reset()
         {
             this.isPassed = false;
             this.richTextBox1.Text = "";
