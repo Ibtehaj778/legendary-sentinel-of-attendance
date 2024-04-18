@@ -21,5 +21,11 @@ namespace WindowsFormsApp1
         {
 
         }
-    }
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+            label1.Text = richTextBox1.Text;
+
+		}
+	}
 }

@@ -29,6 +29,7 @@ namespace WindowsFormsApp1
 			panel1.Hide();
 			attendance_Graph1.Hide();
 			authenticator1.Hide();
+            feedback1.Hide();
 
             authenticator1.Show();
 			dashboard1.label10.Text = authenticator1.richTextBox1.Text;
@@ -49,10 +50,10 @@ namespace WindowsFormsApp1
                 panel1.Hide();
                 registerNew2.Hide();
                 attendance_Graph1.Hide();
-                authenticator1.Hide();
+                authenticator1.Hide(); 
+				feedback1.Hide();
 
-
-                dashboard1.Show();
+				dashboard1.Show();
                 panel1.Show();
             }
             else
@@ -74,9 +75,9 @@ namespace WindowsFormsApp1
                 registerNew2.Hide();
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
+				feedback1.Hide();
 
-
-                registerNew2.Show(); 
+				registerNew2.Show(); 
 				panel1.Show();
             }
 			else
@@ -98,9 +99,9 @@ namespace WindowsFormsApp1
                 registerNew2.Hide();
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
+				feedback1.Hide();
 
-
-                attendancepp1.Show(); 
+				attendancepp1.Show(); 
 				panel1.Show();
             }
 			else
@@ -122,9 +123,9 @@ namespace WindowsFormsApp1
                 registerNew2.Hide();
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
+				feedback1.Hide();
 
-
-                authenticator1.Show();
+				authenticator1.Show();
 				authenticator1.isPassed = false;
 
 				if (!authenticator1.isSave())
@@ -175,7 +176,7 @@ namespace WindowsFormsApp1
                 registerNew2.Hide();
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
-
+				feedback1.Hide();
 
                 attendance_Graph1.Show();
 				panel1.Show();
@@ -185,6 +186,22 @@ namespace WindowsFormsApp1
 				MessageBox.Show("Authentication Uncleared");
 			}
 		}
-    }
+
+		private void button9_Click(object sender, EventArgs e)
+		{
+			dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+			dashboard1.Hide();
+			registerNew1.Hide();
+			attendancepp1.Hide();
+			attendancepp2.Hide();
+			panel1.Hide();
+			registerNew2.Hide();
+			attendance_Graph1.Hide();
+			authenticator1.Hide();
+
+			feedback1.Show();
+			panel1.Show();
+		}
+	}
 }
 
