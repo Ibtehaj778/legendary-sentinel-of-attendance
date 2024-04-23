@@ -9,7 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using FaceRecognition;
 using System.Runtime.InteropServices;
-
+using System.IO;
+using System.Web.UI.Design.WebControls;
 
 namespace WindowsFormsApp1
 {
@@ -52,12 +53,74 @@ namespace WindowsFormsApp1
 			if (label3.Text.Length > 3)
 				label4.Text = "Roll Number: " + label3.Text.Substring(0, label3.Text.Length - 3);
 			pictureBox1.Enabled = false;
-			faceRec.Dispose();
+
+            string roll = label4.Text;
+            string filePath = Path.Combine(Application.StartupPath, "Student.txt");
+            List<List<object>> csvData = ReadCSVFile(filePath);
+            try
+            {
+                foreach (List<object> row in csvData)
+                {
+                    if ((string)row[0] == roll)
+                    {
+                        label4.Text = "Roll Numberssss: " + row[0];
+                        label5.Text = "Name: " + row[1];
+                        label6.Text = "Father Name: " + row[2];
+                        label7.Text = "Batch: " + row[3];
+                        label8.Text = "CGPA: " + row[4];
+
+                        //chart1.Series.Add((string)row[5]);
+                        //chart1.Series[(string)row[5]].Points.AddXY("January", (string)row[6]);
+                        //chart1.Series[(string)row[5]].Points.AddXY("February", (string)row[7]);
+                        //chart1.Series[(string)row[5]].Points.AddXY("March", (string)row[8]);
+                        //chart1.Series[(string)row[5]].Points.AddXY("April", (string)row[9]);
+                        //chart1.Series[(string)row[5]].Points.AddXY("May", (string)row[10]);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Invalid Address or Whatever");
+            }
+
+            faceRec.Dispose();
 
 			button1.Enabled = true;
 		}
 
-		private void Attendancepp_Load(object sender, EventArgs e)
+        static List<List<object>> ReadCSVFile(string filePath)
+        {
+            List<List<object>> data = new List<List<object>>();
+
+            try
+            {
+                using (StreamReader reader = new StreamReader(filePath))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        string[] values = line.Split(',');
+
+                        List<object> row = new List<object>();
+                        foreach (string value in values)
+                        {
+                            row.Add(value.Trim());
+                        }
+
+                        data.Add(row);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error reading file: " + ex.Message);
+            }
+
+            return data;
+        }
+
+
+        private void Attendancepp_Load(object sender, EventArgs e)
 		{
 
 		}
