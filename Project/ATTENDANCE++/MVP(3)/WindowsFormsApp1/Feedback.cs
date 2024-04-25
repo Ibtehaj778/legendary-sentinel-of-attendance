@@ -90,10 +90,13 @@ namespace WindowsFormsApp1
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Invalid Address or Whatever");
             }
 
         }
 
-    }
+		private void Feedback_Load(object sender, EventArgs e)
+		{
+
+		}
+	}
 }

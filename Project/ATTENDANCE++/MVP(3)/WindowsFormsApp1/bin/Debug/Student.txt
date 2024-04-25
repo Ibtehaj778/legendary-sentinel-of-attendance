@@ -1,2 +1,3 @@
-Admin,Arif,Mountain,Spring-2022,3.125,Stats,22,18,12,13,15
-L227503,Alvi,Usha,Fall-2022,2.88,DSA,24,24,25,16,18
+Admin,Arif,Mountain,Spring-2022,3.125,Overall Attendance,22,18,12,13,15
+L227503,Alvi,Usha,Fall-2022,2.88,Overall Attendance,24,24,25,16,18
+L227476,Ibtehaj,Alvi,Spring-2022,2.77,Overall Attendance,24,24,25,16,18

@@ -229,7 +229,7 @@
 			this.dashboard1.Location = new System.Drawing.Point(234, 31);
 			this.dashboard1.Margin = new System.Windows.Forms.Padding(4);
 			this.dashboard1.Name = "dashboard1";
-			this.dashboard1.Size = new System.Drawing.Size(706, 425);
+			this.dashboard1.Size = new System.Drawing.Size(615, 425);
 			this.dashboard1.TabIndex = 20;
 			// 
 			// authenticator1
