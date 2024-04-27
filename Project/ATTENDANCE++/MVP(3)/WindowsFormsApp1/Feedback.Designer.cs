@@ -44,7 +44,7 @@
 			// 
 			this.richTextBox1.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox1.Location = new System.Drawing.Point(23, 326);
-			this.richTextBox1.Margin = new System.Windows.Forms.Padding(4);
+			this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.richTextBox1.Name = "richTextBox1";
 			this.richTextBox1.Size = new System.Drawing.Size(604, 47);
 			this.richTextBox1.TabIndex = 0;
@@ -57,7 +57,7 @@
 			this.button1.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button1.ForeColor = System.Drawing.Color.White;
 			this.button1.Location = new System.Drawing.Point(436, 382);
-			this.button1.Margin = new System.Windows.Forms.Padding(4);
+			this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(191, 58);
 			this.button1.TabIndex = 1;
@@ -70,7 +70,7 @@
 			this.checkBox1.AutoSize = true;
 			this.checkBox1.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.checkBox1.Location = new System.Drawing.Point(23, 382);
-			this.checkBox1.Margin = new System.Windows.Forms.Padding(4);
+			this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.checkBox1.Name = "checkBox1";
 			this.checkBox1.Size = new System.Drawing.Size(150, 21);
 			this.checkBox1.TabIndex = 2;
@@ -83,9 +83,9 @@
 			this.label1.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.Location = new System.Drawing.Point(24, 58);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(297, 20);
+			this.label1.Size = new System.Drawing.Size(36, 20);
 			this.label1.TabIndex = 3;
-			this.label1.Text = "L227503: Damn, that\'s pretty fit\r\n";
+			this.label1.Text = "...";
 			// 
 			// label2
 			// 
@@ -93,9 +93,9 @@
 			this.label2.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label2.Location = new System.Drawing.Point(24, 86);
 			this.label2.Name = "label2";
-			this.label2.Size = new System.Drawing.Size(270, 20);
+			this.label2.Size = new System.Drawing.Size(36, 20);
 			this.label2.TabIndex = 4;
-			this.label2.Text = "Admin: DateTime not formatted";
+			this.label2.Text = "...";
 			// 
 			// label3
 			// 
@@ -103,9 +103,9 @@
 			this.label3.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label3.Location = new System.Drawing.Point(24, 117);
 			this.label3.Name = "label3";
-			this.label3.Size = new System.Drawing.Size(315, 20);
+			this.label3.Size = new System.Drawing.Size(36, 20);
 			this.label3.TabIndex = 5;
-			this.label3.Text = "L227503: FileHandling not resolved";
+			this.label3.Text = "...";
 			// 
 			// label4
 			// 
@@ -113,9 +113,9 @@
 			this.label4.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label4.Location = new System.Drawing.Point(24, 148);
 			this.label4.Name = "label4";
-			this.label4.Size = new System.Drawing.Size(306, 20);
+			this.label4.Size = new System.Drawing.Size(36, 20);
 			this.label4.TabIndex = 8;
-			this.label4.Text = "L227503: Pull Request not working";
+			this.label4.Text = "...";
 			// 
 			// label5
 			// 
@@ -123,19 +123,19 @@
 			this.label5.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label5.Location = new System.Drawing.Point(24, 177);
 			this.label5.Name = "label5";
-			this.label5.Size = new System.Drawing.Size(261, 20);
+			this.label5.Size = new System.Drawing.Size(36, 20);
 			this.label5.TabIndex = 7;
-			this.label5.Text = "L227504: Issues not resolved";
+			this.label5.Text = "...";
 			// 
 			// label6
 			// 
 			this.label6.AutoSize = true;
 			this.label6.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label6.Location = new System.Drawing.Point(24, 205);
+			this.label6.Location = new System.Drawing.Point(24, 206);
 			this.label6.Name = "label6";
-			this.label6.Size = new System.Drawing.Size(315, 20);
+			this.label6.Size = new System.Drawing.Size(36, 20);
 			this.label6.TabIndex = 6;
-			this.label6.Text = "Admin: DateTime issue not resolved";
+			this.label6.Text = "...";
 			// 
 			// label10
 			// 
@@ -163,9 +163,10 @@
 			this.Controls.Add(this.checkBox1);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.richTextBox1);
-			this.Margin = new System.Windows.Forms.Padding(4);
+			this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.Name = "Feedback";
 			this.Size = new System.Drawing.Size(660, 460);
+			this.Load += new System.EventHandler(this.Feedback_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 

@@ -112,5 +112,10 @@ namespace WindowsFormsApp1
 		{
 
 		}
-	}
+
+        private void Authenticator_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

@@ -229,7 +229,7 @@
 			this.dashboard1.Location = new System.Drawing.Point(234, 31);
 			this.dashboard1.Margin = new System.Windows.Forms.Padding(4);
 			this.dashboard1.Name = "dashboard1";
-			this.dashboard1.Size = new System.Drawing.Size(706, 425);
+			this.dashboard1.Size = new System.Drawing.Size(615, 425);
 			this.dashboard1.TabIndex = 20;
 			// 
 			// authenticator1
@@ -328,16 +328,16 @@
 		private System.Windows.Forms.Button button5;
 		private System.Windows.Forms.Button button4;
         
-		private Attendancepp attendancepp1;
-		private RegisterNew registerNew2;
-		private Authenticator authenticator1;
-		private Attendancepp attendancepp2;
-        private RegisterNew registerNew1;
-        private System.Windows.Forms.Button button1;
-        private Dashboard dashboard1;
-		private Attendance_Graph attendance_Graph1;
-		private System.Windows.Forms.Label label1;
-		private Feedback feedback1;
+		public Attendancepp attendancepp1;
+		public RegisterNew registerNew2;
+		public Authenticator authenticator1;
+		public Attendancepp attendancepp2;
+        public RegisterNew registerNew1;
+        public System.Windows.Forms.Button button1;
+        public Dashboard dashboard1;
+		public Attendance_Graph attendance_Graph1;
+		public System.Windows.Forms.Label label1;
+		public Feedback feedback1;
 	}
 }
 
