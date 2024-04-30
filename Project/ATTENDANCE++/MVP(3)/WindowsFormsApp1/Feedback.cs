@@ -11,9 +11,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
+
     public partial class Feedback : UserControl
     {
-        public Feedback()
+        public string username = "temp";
+
+		public Feedback()
         {
             InitializeComponent();
             get_feedbacks();
@@ -34,8 +37,9 @@ namespace WindowsFormsApp1
             label4.Text = label5.Text;
             label5.Text = label6.Text;
             if (checkBox1.Checked) label6.Text = "Anonymous: " + richTextBox1.Text;
-            else label6.Text = richTextBox1.Text;
+            else label6.Text = username + ": " + richTextBox1.Text;
             store();
+            richTextBox1.Text = "";
 		}
         void store()
         {

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using FaceRecognition;
+//using FaceRecognition;
 using System.Runtime.InteropServices;
 using System.IO;
 using System.Web.UI.Design.WebControls;
@@ -22,30 +22,27 @@ namespace WindowsFormsApp1
 			button3.Enabled = false;
 			button10.Enabled = false;
 		}
-		FaceRec faceRec = new FaceRec();
+		//FaceRec faceRec = new FaceRec();
 		char ctr = '1';
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			faceRec.openCamera(pictureBox1, pictureBox2);
+			//faceRec.openCamera(pictureBox1, pictureBox2);
 			button3.Enabled = true;
-			button10.Enabled = true;
+			//faceRec.isTrained = true;
+			//if (faceRec.Name == null)
+			//{
+			//	label3.Text = "Image Name is NULL";
+			//	return;
+			//}
+
+			//faceRec.getPersonName(label3);
+			//faceRec.Dispose();
 		}
 
 
 		private void button3_Click(object sender, EventArgs e)
 		{
-			faceRec.isTrained = true;
-			if (faceRec.Name == null)
-			{
-				label3.Text = "Image Name is NULL";
-				return;
-			}
-
-			faceRec.getPersonName(label3);
-			button1.Enabled = false;
-			button3.Enabled = false;
-			faceRec.Dispose();
 		}
 
 		private void button10_Click(object sender, EventArgs e)
@@ -59,9 +56,8 @@ namespace WindowsFormsApp1
 			pictureBox1.Enabled = false;
 
 
-			faceRec.Dispose();
+			//faceRec.Dispose();
 
-			button1.Enabled = true;
 		}
 
 		public void fetchdetails(string roll)
@@ -142,6 +138,11 @@ namespace WindowsFormsApp1
 
 
 		private void Attendancepp_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void section_SelectedItemChanged(object sender, EventArgs e)
 		{
 
 		}

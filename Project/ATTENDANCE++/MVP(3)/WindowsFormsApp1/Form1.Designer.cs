@@ -30,12 +30,12 @@
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.panel1 = new System.Windows.Forms.Panel();
+			this.button2 = new System.Windows.Forms.Button();
 			this.button8 = new System.Windows.Forms.Button();
 			this.button9 = new System.Windows.Forms.Button();
 			this.button11 = new System.Windows.Forms.Button();
 			this.button7 = new System.Windows.Forms.Button();
 			this.button6 = new System.Windows.Forms.Button();
-			this.button5 = new System.Windows.Forms.Button();
 			this.button4 = new System.Windows.Forms.Button();
 			this.button1 = new System.Windows.Forms.Button();
 			this.label1 = new System.Windows.Forms.Label();
@@ -47,24 +47,46 @@
 			this.registerNew1 = new WindowsFormsApp1.RegisterNew();
 			this.attendancepp2 = new WindowsFormsApp1.Attendancepp();
 			this.attendance_Graph1 = new WindowsFormsApp1.Attendance_Graph();
+			this.addTeacher1 = new WindowsFormsApp1.AddTeacher();
+			this.button3 = new System.Windows.Forms.Button();
+			this.showAttendance1 = new WindowsFormsApp1.ShowAttendance();
 			this.panel1.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// panel1
 			// 
 			this.panel1.BackColor = System.Drawing.Color.Transparent;
+			this.panel1.Controls.Add(this.button3);
+			this.panel1.Controls.Add(this.button2);
 			this.panel1.Controls.Add(this.button8);
 			this.panel1.Controls.Add(this.button9);
 			this.panel1.Controls.Add(this.button11);
 			this.panel1.Controls.Add(this.button7);
 			this.panel1.Controls.Add(this.button6);
-			this.panel1.Controls.Add(this.button5);
 			this.panel1.Controls.Add(this.button4);
 			this.panel1.Location = new System.Drawing.Point(1, 1);
 			this.panel1.Name = "panel1";
 			this.panel1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
 			this.panel1.Size = new System.Drawing.Size(227, 472);
 			this.panel1.TabIndex = 13;
+			// 
+			// button2
+			// 
+			this.button2.AllowDrop = true;
+			this.button2.AutoSize = true;
+			this.button2.BackColor = System.Drawing.SystemColors.ActiveBorder;
+			this.button2.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
+			this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
+			this.button2.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button2.ForeColor = System.Drawing.Color.White;
+			this.button2.Location = new System.Drawing.Point(115, 350);
+			this.button2.Margin = new System.Windows.Forms.Padding(2);
+			this.button2.Name = "button2";
+			this.button2.Size = new System.Drawing.Size(92, 65);
+			this.button2.TabIndex = 19;
+			this.button2.Text = "ADD\r\nTEACHER";
+			this.button2.UseVisualStyleBackColor = false;
+			this.button2.Click += new System.EventHandler(this.button2_Click);
 			// 
 			// button8
 			// 
@@ -91,12 +113,12 @@
 			this.button9.BackColor = System.Drawing.SystemColors.ActiveBorder;
 			this.button9.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
 			this.button9.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button9.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button9.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button9.ForeColor = System.Drawing.Color.White;
 			this.button9.Location = new System.Drawing.Point(18, 350);
 			this.button9.Margin = new System.Windows.Forms.Padding(2);
 			this.button9.Name = "button9";
-			this.button9.Size = new System.Drawing.Size(190, 65);
+			this.button9.Size = new System.Drawing.Size(93, 65);
 			this.button9.TabIndex = 17;
 			this.button9.Text = "FEEDBACK";
 			this.button9.UseVisualStyleBackColor = false;
@@ -155,23 +177,6 @@
 			this.button6.Text = "ATTENDANCE GRAPH";
 			this.button6.UseVisualStyleBackColor = false;
 			this.button6.Click += new System.EventHandler(this.button6_Click);
-			// 
-			// button5
-			// 
-			this.button5.AllowDrop = true;
-			this.button5.AutoSize = true;
-			this.button5.BackColor = System.Drawing.SystemColors.ActiveBorder;
-			this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button5.Enabled = false;
-			this.button5.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button5.ForeColor = System.Drawing.SystemColors.WindowFrame;
-			this.button5.Location = new System.Drawing.Point(18, 281);
-			this.button5.Margin = new System.Windows.Forms.Padding(2);
-			this.button5.Name = "button5";
-			this.button5.Size = new System.Drawing.Size(190, 65);
-			this.button5.TabIndex = 13;
-			this.button5.Text = "CHECK RECORD";
-			this.button5.UseVisualStyleBackColor = false;
 			// 
 			// button4
 			// 
@@ -286,12 +291,49 @@
 			this.attendance_Graph1.Size = new System.Drawing.Size(706, 425);
 			this.attendance_Graph1.TabIndex = 21;
 			// 
+			// addTeacher1
+			// 
+			this.addTeacher1.BackColor = System.Drawing.Color.Transparent;
+			this.addTeacher1.Location = new System.Drawing.Point(243, 33);
+			this.addTeacher1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+			this.addTeacher1.Name = "addTeacher1";
+			this.addTeacher1.Size = new System.Drawing.Size(606, 423);
+			this.addTeacher1.TabIndex = 24;
+			// 
+			// button3
+			// 
+			this.button3.AllowDrop = true;
+			this.button3.AutoSize = true;
+			this.button3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+			this.button3.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
+			this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
+			this.button3.Font = new System.Drawing.Font("Consolas", 11F, System.Drawing.FontStyle.Bold);
+			this.button3.ForeColor = System.Drawing.SystemColors.HighlightText;
+			this.button3.Location = new System.Drawing.Point(19, 281);
+			this.button3.Margin = new System.Windows.Forms.Padding(2);
+			this.button3.Name = "button3";
+			this.button3.Size = new System.Drawing.Size(189, 65);
+			this.button3.TabIndex = 20;
+			this.button3.Text = "SHOW ATTENDANCE";
+			this.button3.UseVisualStyleBackColor = false;
+			this.button3.Click += new System.EventHandler(this.button3_Click);
+			// 
+			// showAttendance1
+			// 
+			this.showAttendance1.Location = new System.Drawing.Point(243, 38);
+			this.showAttendance1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+			this.showAttendance1.Name = "showAttendance1";
+			this.showAttendance1.Size = new System.Drawing.Size(606, 436);
+			this.showAttendance1.TabIndex = 25;
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.bg2__2_;
 			this.ClientSize = new System.Drawing.Size(947, 471);
+			this.Controls.Add(this.showAttendance1);
+			this.Controls.Add(this.addTeacher1);
 			this.Controls.Add(this.feedback1);
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.dashboard1);
@@ -325,7 +367,6 @@
 		private System.Windows.Forms.Button button11;
 		private System.Windows.Forms.Button button7;
 		private System.Windows.Forms.Button button6;
-		private System.Windows.Forms.Button button5;
 		private System.Windows.Forms.Button button4;
         
 		public Attendancepp attendancepp1;
@@ -338,6 +379,10 @@
 		public Attendance_Graph attendance_Graph1;
 		public System.Windows.Forms.Label label1;
 		public Feedback feedback1;
+		private System.Windows.Forms.Button button2;
+		private AddTeacher addTeacher1;
+		private System.Windows.Forms.Button button3;
+		private ShowAttendance showAttendance1;
 	}
 }
 

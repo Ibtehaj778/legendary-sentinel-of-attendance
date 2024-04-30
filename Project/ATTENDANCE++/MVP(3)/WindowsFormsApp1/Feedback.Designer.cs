@@ -44,11 +44,14 @@
 			// 
 			this.richTextBox1.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox1.Location = new System.Drawing.Point(23, 326);
-			this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+			this.richTextBox1.Margin = new System.Windows.Forms.Padding(4);
+			this.richTextBox1.MaxLength = 50;
+			this.richTextBox1.Multiline = false;
 			this.richTextBox1.Name = "richTextBox1";
 			this.richTextBox1.Size = new System.Drawing.Size(604, 47);
 			this.richTextBox1.TabIndex = 0;
 			this.richTextBox1.Text = "";
+			this.richTextBox1.WordWrap = false;
 			// 
 			// button1
 			// 
@@ -57,7 +60,7 @@
 			this.button1.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button1.ForeColor = System.Drawing.Color.White;
 			this.button1.Location = new System.Drawing.Point(436, 382);
-			this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+			this.button1.Margin = new System.Windows.Forms.Padding(4);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(191, 58);
 			this.button1.TabIndex = 1;
@@ -70,7 +73,7 @@
 			this.checkBox1.AutoSize = true;
 			this.checkBox1.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.checkBox1.Location = new System.Drawing.Point(23, 382);
-			this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+			this.checkBox1.Margin = new System.Windows.Forms.Padding(4);
 			this.checkBox1.Name = "checkBox1";
 			this.checkBox1.Size = new System.Drawing.Size(150, 21);
 			this.checkBox1.TabIndex = 2;
@@ -163,7 +166,7 @@
 			this.Controls.Add(this.checkBox1);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.richTextBox1);
-			this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+			this.Margin = new System.Windows.Forms.Padding(4);
 			this.Name = "Feedback";
 			this.Size = new System.Drawing.Size(660, 460);
 			this.Load += new System.EventHandler(this.Feedback_Load);

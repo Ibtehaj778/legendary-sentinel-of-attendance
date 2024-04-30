@@ -29,11 +29,7 @@
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RegisterNew));
-			//System.Windows.Forms.NumericUpDown numericUpDown1;
-			//System.Windows.Forms.DomainUpDown domainUpDown1;
-			//System.Windows.Forms.NumericUpDown numericUpDown2;
-			//System.Windows.Forms.NumericUpDown numericUpDown3;
-			//System.Windows.Forms.DomainUpDown domainUpDown2;
+			
 			this.label3 = new System.Windows.Forms.Label();
 			this.label8 = new System.Windows.Forms.Label();
 			this.label7 = new System.Windows.Forms.Label();
@@ -282,7 +278,7 @@
 			numericUpDown1.TabIndex = 53;
 			numericUpDown1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			numericUpDown1.Value = new decimal(new int[] {
-            19,
+            18,
             0,
             0,
             0});

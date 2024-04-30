@@ -29,8 +29,8 @@
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Attendancepp));
-			System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-			System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+			System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+			System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
 			this.label8 = new System.Windows.Forms.Label();
 			this.label7 = new System.Windows.Forms.Label();
 			this.label6 = new System.Windows.Forms.Label();
@@ -45,6 +45,8 @@
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.label17 = new System.Windows.Forms.Label();
 			this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+			this.section = new System.Windows.Forms.DomainUpDown();
+			this.Subject = new System.Windows.Forms.DomainUpDown();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
@@ -97,12 +99,12 @@
 			this.button10.BackColor = System.Drawing.Color.LightSalmon;
 			this.button10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button10.BackgroundImage")));
 			this.button10.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button10.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold);
+			this.button10.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
 			this.button10.Location = new System.Drawing.Point(272, 228);
 			this.button10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.button10.Name = "button10";
-			this.button10.Size = new System.Drawing.Size(191, 44);
+			this.button10.Size = new System.Drawing.Size(182, 44);
 			this.button10.TabIndex = 25;
 			this.button10.Text = "FETCH DETAILS";
 			this.button10.UseVisualStyleBackColor = false;
@@ -136,14 +138,14 @@
 			this.button3.BackColor = System.Drawing.Color.LightSalmon;
 			this.button3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button3.BackgroundImage")));
 			this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button3.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button3.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-			this.button3.Location = new System.Drawing.Point(469, 180);
+			this.button3.Location = new System.Drawing.Point(464, 181);
 			this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.button3.Name = "button3";
-			this.button3.Size = new System.Drawing.Size(193, 44);
+			this.button3.Size = new System.Drawing.Size(190, 42);
 			this.button3.TabIndex = 21;
-			this.button3.Text = "RECOGNIZE FACE";
+			this.button3.Text = "MARK ATTENDANCE";
 			this.button3.UseVisualStyleBackColor = false;
 			this.button3.Click += new System.EventHandler(this.button3_Click);
 			// 
@@ -154,12 +156,12 @@
 			this.button1.BackColor = System.Drawing.Color.LightSalmon;
 			this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
 			this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button1.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold);
+			this.button1.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
 			this.button1.Location = new System.Drawing.Point(272, 180);
 			this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(191, 44);
+			this.button1.Size = new System.Drawing.Size(186, 44);
 			this.button1.TabIndex = 19;
 			this.button1.Text = "OPEN CAMERA";
 			this.button1.UseVisualStyleBackColor = false;
@@ -214,19 +216,19 @@
 			this.chart1.BackSecondaryColor = System.Drawing.Color.Transparent;
 			this.chart1.BorderlineColor = System.Drawing.Color.Transparent;
 			this.chart1.BorderlineWidth = 4;
-			chartArea1.AxisX.Title = "Months";
-			chartArea1.AxisX.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			chartArea1.AxisY.Title = "Attendance";
-			chartArea1.AxisY.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold);
-			chartArea1.BackColor = System.Drawing.Color.Transparent;
-			chartArea1.Name = "ChartArea1";
-			this.chart1.ChartAreas.Add(chartArea1);
-			legend1.BackColor = System.Drawing.Color.Transparent;
-			legend1.Font = new System.Drawing.Font("Consolas", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			legend1.IsTextAutoFit = false;
-			legend1.Name = "Legend1";
-			legend1.TitleBackColor = System.Drawing.Color.Transparent;
-			this.chart1.Legends.Add(legend1);
+			chartArea2.AxisX.Title = "Months";
+			chartArea2.AxisX.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			chartArea2.AxisY.Title = "Attendance";
+			chartArea2.AxisY.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold);
+			chartArea2.BackColor = System.Drawing.Color.Transparent;
+			chartArea2.Name = "ChartArea1";
+			this.chart1.ChartAreas.Add(chartArea2);
+			legend2.BackColor = System.Drawing.Color.Transparent;
+			legend2.Font = new System.Drawing.Font("Consolas", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			legend2.IsTextAutoFit = false;
+			legend2.Name = "Legend1";
+			legend2.TitleBackColor = System.Drawing.Color.Transparent;
+			this.chart1.Legends.Add(legend2);
 			this.chart1.Location = new System.Drawing.Point(18, 300);
 			this.chart1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.chart1.Name = "chart1";
@@ -234,11 +236,32 @@
 			this.chart1.TabIndex = 32;
 			this.chart1.Text = "chart1";
 			// 
+			// section
+			// 
+			this.section.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.section.Location = new System.Drawing.Point(460, 239);
+			this.section.Name = "section";
+			this.section.Size = new System.Drawing.Size(94, 25);
+			this.section.TabIndex = 33;
+			this.section.Text = " Section";
+			this.section.SelectedItemChanged += new System.EventHandler(this.section_SelectedItemChanged);
+			// 
+			// Subject
+			// 
+			this.Subject.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.Subject.Location = new System.Drawing.Point(560, 239);
+			this.Subject.Name = "Subject";
+			this.Subject.Size = new System.Drawing.Size(94, 25);
+			this.Subject.TabIndex = 34;
+			this.Subject.Text = " Subject";
+			// 
 			// Attendancepp
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.Transparent;
+			this.Controls.Add(this.Subject);
+			this.Controls.Add(this.section);
 			this.Controls.Add(this.chart1);
 			this.Controls.Add(this.label17);
 			this.Controls.Add(this.label3);
@@ -281,5 +304,7 @@
 		private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label17;
 		public System.Windows.Forms.DataVisualization.Charting.Chart chart1;
+		private System.Windows.Forms.DomainUpDown section;
+		private System.Windows.Forms.DomainUpDown Subject;
 	}
 }

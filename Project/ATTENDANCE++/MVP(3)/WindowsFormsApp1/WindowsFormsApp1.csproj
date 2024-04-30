@@ -139,6 +139,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddTeacher.Designer.cs">
+      <DependentUpon>AddTeacher.cs</DependentUpon>
+    </Compile>
     <Compile Include="Attendancepp.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -183,6 +189,15 @@
     <Compile Include="RegisterNew.Designer.cs">
       <DependentUpon>RegisterNew.cs</DependentUpon>
     </Compile>
+    <Compile Include="ShowAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShowAttendance.Designer.cs">
+      <DependentUpon>ShowAttendance.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddTeacher.resx">
+      <DependentUpon>AddTeacher.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Attendancepp.resx">
       <DependentUpon>Attendancepp.cs</DependentUpon>
     </EmbeddedResource>
@@ -213,6 +228,9 @@
     </Compile>
     <EmbeddedResource Include="RegisterNew.resx">
       <DependentUpon>RegisterNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAttendance.resx">
+      <DependentUpon>ShowAttendance.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
     <None Include="OpenTK.dll.config" />

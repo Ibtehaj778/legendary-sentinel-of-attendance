@@ -22,6 +22,7 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+			showAttendance1.Hide();
 			registerNew1.Hide();
 			dashboard1.Hide();
 			attendancepp1.Hide();
@@ -30,7 +31,7 @@ namespace WindowsFormsApp1
 			attendance_Graph1.Hide();
 			authenticator1.Hide();
             feedback1.Hide();
-
+			addTeacher1.Hide();
             authenticator1.Show();
 			dashboard1.label10.Text = authenticator1.richTextBox1.Text;
             label1.Text = "Date:" + (DateTime.Now.ToString()).Substring(0, 10);
@@ -43,7 +44,8 @@ namespace WindowsFormsApp1
             {
                 dashboard1.label10.Text = authenticator1.richTextBox1.Text;
                 dashboard1.fetchdetails();
-                dashboard1.Hide();
+				showAttendance1.Hide();
+				dashboard1.Hide();
                 registerNew1.Hide();
                 attendancepp1.Hide();
                 attendancepp2.Hide();
@@ -52,7 +54,7 @@ namespace WindowsFormsApp1
                 attendance_Graph1.Hide();
                 authenticator1.Hide(); 
 				feedback1.Hide();
-
+				addTeacher1.Hide();
 				dashboard1.Show();
                 panel1.Show();
             }
@@ -68,7 +70,8 @@ namespace WindowsFormsApp1
 			{
                 dashboard1.label10.Text = authenticator1.richTextBox1.Text;
                 dashboard1.Hide();
-                registerNew1.Hide();
+				showAttendance1.Hide();
+				registerNew1.Hide();
                 attendancepp1.Hide();
                 attendancepp2.Hide();
                 panel1.Hide();
@@ -76,7 +79,7 @@ namespace WindowsFormsApp1
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
 				feedback1.Hide();
-
+				addTeacher1.Hide();
 				registerNew2.Show(); 
 				panel1.Show();
             }
@@ -92,7 +95,8 @@ namespace WindowsFormsApp1
 			{
                 dashboard1.label10.Text = authenticator1.richTextBox1.Text;
                 dashboard1.Hide();
-                registerNew1.Hide();
+				showAttendance1.Hide();
+				registerNew1.Hide();
                 attendancepp1.Hide();
                 attendancepp2.Hide();
                 panel1.Hide();
@@ -100,7 +104,7 @@ namespace WindowsFormsApp1
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
 				feedback1.Hide();
-
+				addTeacher1.Hide();
 				attendancepp1.Show(); 
 				panel1.Show();
             }
@@ -116,7 +120,8 @@ namespace WindowsFormsApp1
 			{
                 dashboard1.label10.Text = authenticator1.richTextBox1.Text;
                 dashboard1.Hide();
-                registerNew1.Hide();
+				showAttendance1.Hide();
+				registerNew1.Hide();
                 attendancepp1.Hide();
                 attendancepp2.Hide();
                 panel1.Hide();
@@ -124,7 +129,7 @@ namespace WindowsFormsApp1
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
 				feedback1.Hide();
-
+				addTeacher1.Hide();
 				authenticator1.Show();
 				authenticator1.isPassed = false;
 
@@ -169,7 +174,8 @@ namespace WindowsFormsApp1
                 dashboard1.label10.Text = authenticator1.richTextBox1.Text;
                 attendance_Graph1.formgraph(dashboard1.label10.Text);
                 dashboard1.Hide();
-                registerNew1.Hide();
+				showAttendance1.Hide();
+				registerNew1.Hide();
                 attendancepp1.Hide();
                 attendancepp2.Hide();
                 panel1.Hide();
@@ -177,8 +183,8 @@ namespace WindowsFormsApp1
                 attendance_Graph1.Hide();
                 authenticator1.Hide();
 				feedback1.Hide();
-
-                attendance_Graph1.Show();
+				addTeacher1.Hide();
+				attendance_Graph1.Show();
 				panel1.Show();
 			}
 			else
@@ -192,15 +198,65 @@ namespace WindowsFormsApp1
 			dashboard1.label10.Text = authenticator1.richTextBox1.Text;
 			dashboard1.Hide();
 			registerNew1.Hide();
+			showAttendance1.Hide();
 			attendancepp1.Hide();
 			attendancepp2.Hide();
 			panel1.Hide();
 			registerNew2.Hide();
 			attendance_Graph1.Hide();
 			authenticator1.Hide();
-
+			addTeacher1.Hide();
 			feedback1.Show();
+			feedback1.username = authenticator1.richTextBox1.Text;
 			panel1.Show();
+		}
+
+		private void button2_Click(object sender, EventArgs e)
+		{
+			if (authenticator1.isPassed == true)
+			{
+				dashboard1.label10.Text = authenticator1.richTextBox1.Text;
+				attendance_Graph1.formgraph(dashboard1.label10.Text);
+				dashboard1.Hide();
+				registerNew1.Hide();
+				attendancepp1.Hide();
+				attendancepp2.Hide();
+				panel1.Hide();
+				showAttendance1.Hide();
+				registerNew2.Hide();
+				attendance_Graph1.Hide();
+				authenticator1.Hide();
+				feedback1.Hide();
+				addTeacher1.Show();
+				panel1.Show();
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
+		}
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+			if (authenticator1.isPassed == true)
+			{
+				dashboard1.Hide();
+				registerNew1.Hide();
+				attendancepp1.Hide();
+				attendancepp2.Hide();
+				panel1.Hide();
+				showAttendance1.Hide();
+				registerNew2.Hide();
+				attendance_Graph1.Hide();
+				authenticator1.Hide();
+				feedback1.Hide();
+				showAttendance1.Show();
+				panel1.Show();
+			}
+			else
+			{
+				MessageBox.Show("Authentication Uncleared");
+			}
 		}
 	}
 }
