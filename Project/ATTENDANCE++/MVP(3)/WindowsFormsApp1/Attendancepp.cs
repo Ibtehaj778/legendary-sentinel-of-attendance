@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//using FaceRecognition;
+using FaceRecognition;
 using System.Runtime.InteropServices;
 using System.IO;
 using System.Web.UI.Design.WebControls;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WindowsFormsApp1
 {
@@ -22,28 +23,93 @@ namespace WindowsFormsApp1
 			button3.Enabled = false;
 			button10.Enabled = false;
 		}
-		//FaceRec faceRec = new FaceRec();
+		FaceRec faceRec = new FaceRec();
 		char ctr = '1';
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			//faceRec.openCamera(pictureBox1, pictureBox2);
-			button3.Enabled = true;
-			//faceRec.isTrained = true;
-			//if (faceRec.Name == null)
-			//{
-			//	label3.Text = "Image Name is NULL";
-			//	return;
-			//}
+			faceRec.openCamera(pictureBox1, pictureBox2);
+			button10.Enabled = true;
+			button1.Enabled = false;
+			faceRec.isTrained = true;
+			if (faceRec.Name == null)
+			{
+				label3.Text = "Image Name is NULL";
+				return;
+			}
 
-			//faceRec.getPersonName(label3);
-			//faceRec.Dispose();
+			faceRec.getPersonName(label3);
+			faceRec.Dispose();
 		}
 
-
+		string roll = "";
+		public string teacher_registered_sections = "";
 		private void button3_Click(object sender, EventArgs e)
 		{
+			try
+			{
+				if (comboBox1.SelectedItem == null)
+				{
+					MessageBox.Show("Please select a section.", "Selection Required", MessageBoxButtons.OK, MessageBoxIcon.Information);
+					return;
+				}
+
+				if (comboBox2.SelectedItem == null)
+				{
+					MessageBox.Show("Please select a subject.", "Selection Required", MessageBoxButtons.OK, MessageBoxIcon.Information);
+					return;
+				}
+
+				string selectedSection = comboBox1.SelectedItem.ToString();
+
+				List<string> registeredSections = teacher_registered_sections.Split(';').ToList();
+
+				if (!registeredSections.Contains(selectedSection))
+				{
+					MessageBox.Show("You are not registered to mark attendance for this section.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+					return;
+				}
+
+				string selectedSubject = comboBox2.SelectedItem.ToString();
+
+				string currentDate = DateTime.Now.ToString("yyyy-MM-dd");
+
+				string filePath = Path.Combine(Application.StartupPath, $"{currentDate}.csv");
+
+				bool fileExists = File.Exists(filePath);
+
+				if (!fileExists)
+				{
+					using (StreamWriter sw = new StreamWriter(filePath))
+					{
+						sw.WriteLine("Roll,Section,Subject,Present");
+					}
+				}
+
+				List<List<object>> csvData = ReadCSVFile(filePath);
+				foreach (List<object> row in csvData)
+				{
+					if ((string)row[0] == roll && (string)row[1] == selectedSection)
+					{
+						MessageBox.Show("Student with the same section is already marked.", "Duplicate Entry", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+						return;
+					}
+				}
+
+				using (StreamWriter sw = new StreamWriter(filePath, true))
+				{
+					sw.WriteLine($"{roll},{selectedSection},{selectedSubject},P");
+				}
+
+				MessageBox.Show("Attendance marked successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+			}
+			catch (Exception ex)
+			{
+				MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
 		}
+
+
 
 		private void button10_Click(object sender, EventArgs e)
 		{
@@ -51,12 +117,14 @@ namespace WindowsFormsApp1
 			{
 				string temp = label3.Text.Substring(0, label3.Text.Length - 3);
 				label4.Text = "Roll Number: " + temp;
+				roll = temp;
 				fetchdetails(temp);
 			}
 			pictureBox1.Enabled = false;
 
 
-			//faceRec.Dispose();
+
+			faceRec.Dispose();
 
 		}
 
@@ -96,7 +164,10 @@ namespace WindowsFormsApp1
 					}
 				}
 				if (!isadded)
-					MessageBox.Show("Student Data Missing!!");
+					MessageBox.Show("Student Data Missing in StudentData!!");
+				else
+					button3.Enabled = true;
+
 			}
 			catch (Exception ex)
 			{
@@ -132,7 +203,6 @@ namespace WindowsFormsApp1
 			{
 				Console.WriteLine("Error reading file: " + ex.Message);
 			}
-
 			return data;
 		}
 

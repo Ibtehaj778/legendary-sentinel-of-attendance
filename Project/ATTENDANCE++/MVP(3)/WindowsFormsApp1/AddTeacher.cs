@@ -30,6 +30,21 @@ namespace WindowsFormsApp1
 
 		private void button10_Click(object sender, EventArgs e)
 		{
+			if (domainUpDown2.Text.Length == 0)
+			{
+				MessageBox.Show("Invalid Data");
+				return; 
+			}
+			if (richTextBox1.Text.Length == 0)
+			{
+				MessageBox.Show("Invalid Data");
+				return; 
+			}
+			if (richTextBox10.Text.Length <= 8)
+			{
+				MessageBox.Show("Invalid Data");
+				return; 
+			}
 
 			string username = domainUpDown2.Text + numericUpDown3.Value.ToString() + richTextBox1.Text;
 			string password = richTextBox10.Text;
@@ -90,6 +105,7 @@ namespace WindowsFormsApp1
 			//Emma Brown, Admin, Brown, emma.brown@example.com,246810 - 1357924 - 8,08 / 05 / 1996,Computer Science, BDS-2A; BDS - 5C; BCS - 6A
 
 			what_to_store =  richTextBox2.Text + ',' + username + ',' + richTextBox3.Text + ',' + richTextBox4.Text + "@lhr.nu.edu.pk," + richTextBox5.Text + '-' + richTextBox6.Text + '-' + richTextBox7.Text + ',' + dateTimePicker1.Text + ',' + richTextBox8.Text + ',' + richTextBox9.Text;
+			
 			try
 			{
 				using (StreamWriter writer = new StreamWriter(fp, true))
