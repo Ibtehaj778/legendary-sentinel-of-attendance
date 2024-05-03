@@ -29,8 +29,8 @@
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Attendancepp));
-			System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-			System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+			System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+			System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
 			this.label8 = new System.Windows.Forms.Label();
 			this.label7 = new System.Windows.Forms.Label();
 			this.label6 = new System.Windows.Forms.Label();
@@ -55,40 +55,40 @@
 			// label8
 			// 
 			this.label8.AutoSize = true;
-			this.label8.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label8.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label8.Location = new System.Drawing.Point(263, 138);
 			this.label8.Name = "label8";
-			this.label8.Size = new System.Drawing.Size(63, 20);
+			this.label8.Size = new System.Drawing.Size(67, 19);
 			this.label8.TabIndex = 29;
 			this.label8.Text = "CGPA: ";
 			// 
 			// label7
 			// 
 			this.label7.AutoSize = true;
-			this.label7.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label7.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label7.Location = new System.Drawing.Point(263, 118);
 			this.label7.Name = "label7";
-			this.label7.Size = new System.Drawing.Size(63, 20);
+			this.label7.Size = new System.Drawing.Size(64, 19);
 			this.label7.TabIndex = 28;
 			this.label7.Text = "Batch:";
 			// 
 			// label6
 			// 
 			this.label6.AutoSize = true;
-			this.label6.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label6.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label6.Location = new System.Drawing.Point(263, 98);
 			this.label6.Name = "label6";
-			this.label6.Size = new System.Drawing.Size(126, 20);
+			this.label6.Size = new System.Drawing.Size(130, 19);
 			this.label6.TabIndex = 27;
 			this.label6.Text = "Father Name: ";
 			// 
 			// label5
 			// 
 			this.label5.AutoSize = true;
-			this.label5.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label5.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label5.Location = new System.Drawing.Point(263, 78);
 			this.label5.Name = "label5";
-			this.label5.Size = new System.Drawing.Size(63, 20);
+			this.label5.Size = new System.Drawing.Size(69, 19);
 			this.label5.TabIndex = 26;
 			this.label5.Text = "Name: ";
 			// 
@@ -99,7 +99,7 @@
 			this.button10.BackColor = System.Drawing.Color.LightSalmon;
 			this.button10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button10.BackgroundImage")));
 			this.button10.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button10.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button10.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
 			this.button10.Location = new System.Drawing.Point(272, 228);
 			this.button10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -113,10 +113,10 @@
 			// label4
 			// 
 			this.label4.AutoSize = true;
-			this.label4.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label4.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label4.Location = new System.Drawing.Point(263, 58);
 			this.label4.Name = "label4";
-			this.label4.Size = new System.Drawing.Size(126, 20);
+			this.label4.Size = new System.Drawing.Size(124, 19);
 			this.label4.TabIndex = 24;
 			this.label4.Text = "Roll Number: ";
 			// 
@@ -124,10 +124,10 @@
 			// 
 			this.label1.AutoSize = true;
 			this.label1.BackColor = System.Drawing.Color.Transparent;
-			this.label1.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label1.Location = new System.Drawing.Point(13, 52);
+			this.label1.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.Location = new System.Drawing.Point(27, 53);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(90, 28);
+			this.label1.Size = new System.Drawing.Size(99, 23);
 			this.label1.TabIndex = 22;
 			this.label1.Text = "CAMERA";
 			// 
@@ -138,7 +138,7 @@
 			this.button3.BackColor = System.Drawing.Color.LightSalmon;
 			this.button3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button3.BackgroundImage")));
 			this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button3.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button3.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
 			this.button3.Location = new System.Drawing.Point(464, 181);
 			this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -156,7 +156,7 @@
 			this.button1.BackColor = System.Drawing.Color.LightSalmon;
 			this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
 			this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button1.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button1.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
 			this.button1.Location = new System.Drawing.Point(272, 180);
 			this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -201,10 +201,10 @@
 			// label17
 			// 
 			this.label17.AutoSize = true;
-			this.label17.Font = new System.Drawing.Font("Consolas", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label17.Font = new System.Drawing.Font("Lucida Fax", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label17.Location = new System.Drawing.Point(13, 7);
 			this.label17.Name = "label17";
-			this.label17.Size = new System.Drawing.Size(168, 27);
+			this.label17.Size = new System.Drawing.Size(183, 23);
 			this.label17.TabIndex = 31;
 			this.label17.Text = "ATTENDANCE++";
 			// 
@@ -216,19 +216,19 @@
 			this.chart1.BackSecondaryColor = System.Drawing.Color.Transparent;
 			this.chart1.BorderlineColor = System.Drawing.Color.Transparent;
 			this.chart1.BorderlineWidth = 4;
-			chartArea2.AxisX.Title = "Months";
-			chartArea2.AxisX.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			chartArea2.AxisY.Title = "Attendance";
-			chartArea2.AxisY.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold);
-			chartArea2.BackColor = System.Drawing.Color.Transparent;
-			chartArea2.Name = "ChartArea1";
-			this.chart1.ChartAreas.Add(chartArea2);
-			legend2.BackColor = System.Drawing.Color.Transparent;
-			legend2.Font = new System.Drawing.Font("Consolas", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			legend2.IsTextAutoFit = false;
-			legend2.Name = "Legend1";
-			legend2.TitleBackColor = System.Drawing.Color.Transparent;
-			this.chart1.Legends.Add(legend2);
+			chartArea1.AxisX.Title = "Months";
+			chartArea1.AxisX.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			chartArea1.AxisY.Title = "Attendance";
+			chartArea1.AxisY.TitleFont = new System.Drawing.Font("Consolas", 8.8F, System.Drawing.FontStyle.Bold);
+			chartArea1.BackColor = System.Drawing.Color.Transparent;
+			chartArea1.Name = "ChartArea1";
+			this.chart1.ChartAreas.Add(chartArea1);
+			legend1.BackColor = System.Drawing.Color.Transparent;
+			legend1.Font = new System.Drawing.Font("Lucida Fax", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			legend1.IsTextAutoFit = false;
+			legend1.Name = "Legend1";
+			legend1.TitleBackColor = System.Drawing.Color.Transparent;
+			this.chart1.Legends.Add(legend1);
 			this.chart1.Location = new System.Drawing.Point(18, 300);
 			this.chart1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.chart1.Name = "chart1";
@@ -238,7 +238,7 @@
 			// 
 			// section
 			// 
-			this.section.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.section.Font = new System.Drawing.Font("Lucida Fax", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.section.Location = new System.Drawing.Point(460, 239);
 			this.section.Name = "section";
 			this.section.Size = new System.Drawing.Size(94, 25);
@@ -248,7 +248,7 @@
 			// 
 			// Subject
 			// 
-			this.Subject.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.Subject.Font = new System.Drawing.Font("Lucida Fax", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.Subject.Location = new System.Drawing.Point(560, 239);
 			this.Subject.Name = "Subject";
 			this.Subject.Size = new System.Drawing.Size(94, 25);

@@ -30,6 +30,7 @@
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.panel1 = new System.Windows.Forms.Panel();
+			this.button3 = new System.Windows.Forms.Button();
 			this.button2 = new System.Windows.Forms.Button();
 			this.button8 = new System.Windows.Forms.Button();
 			this.button9 = new System.Windows.Forms.Button();
@@ -39,6 +40,8 @@
 			this.button4 = new System.Windows.Forms.Button();
 			this.button1 = new System.Windows.Forms.Button();
 			this.label1 = new System.Windows.Forms.Label();
+			this.showAttendance1 = new WindowsFormsApp1.ShowAttendance();
+			this.addTeacher1 = new WindowsFormsApp1.AddTeacher();
 			this.feedback1 = new WindowsFormsApp1.Feedback();
 			this.dashboard1 = new WindowsFormsApp1.Dashboard();
 			this.authenticator1 = new WindowsFormsApp1.Authenticator();
@@ -47,9 +50,6 @@
 			this.registerNew1 = new WindowsFormsApp1.RegisterNew();
 			this.attendancepp2 = new WindowsFormsApp1.Attendancepp();
 			this.attendance_Graph1 = new WindowsFormsApp1.Attendance_Graph();
-			this.addTeacher1 = new WindowsFormsApp1.AddTeacher();
-			this.button3 = new System.Windows.Forms.Button();
-			this.showAttendance1 = new WindowsFormsApp1.ShowAttendance();
 			this.panel1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -70,6 +70,24 @@
 			this.panel1.Size = new System.Drawing.Size(227, 472);
 			this.panel1.TabIndex = 13;
 			// 
+			// button3
+			// 
+			this.button3.AllowDrop = true;
+			this.button3.AutoSize = true;
+			this.button3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+			this.button3.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
+			this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
+			this.button3.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button3.ForeColor = System.Drawing.SystemColors.HighlightText;
+			this.button3.Location = new System.Drawing.Point(19, 258);
+			this.button3.Margin = new System.Windows.Forms.Padding(2);
+			this.button3.Name = "button3";
+			this.button3.Size = new System.Drawing.Size(190, 50);
+			this.button3.TabIndex = 20;
+			this.button3.Text = "SHOW ATTENDANCE";
+			this.button3.UseVisualStyleBackColor = false;
+			this.button3.Click += new System.EventHandler(this.button3_Click);
+			// 
 			// button2
 			// 
 			this.button2.AllowDrop = true;
@@ -77,14 +95,14 @@
 			this.button2.BackColor = System.Drawing.SystemColors.ActiveBorder;
 			this.button2.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
 			this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button2.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button2.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button2.ForeColor = System.Drawing.Color.White;
-			this.button2.Location = new System.Drawing.Point(115, 350);
+			this.button2.Location = new System.Drawing.Point(19, 312);
 			this.button2.Margin = new System.Windows.Forms.Padding(2);
 			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(92, 65);
+			this.button2.Size = new System.Drawing.Size(190, 50);
 			this.button2.TabIndex = 19;
-			this.button2.Text = "ADD\r\nTEACHER";
+			this.button2.Text = "ADD TEACHER";
 			this.button2.UseVisualStyleBackColor = false;
 			this.button2.Click += new System.EventHandler(this.button2_Click);
 			// 
@@ -93,14 +111,14 @@
 			this.button8.AllowDrop = true;
 			this.button8.AutoSize = true;
 			this.button8.BackColor = System.Drawing.Color.SkyBlue;
-			this.button8.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
+			this.button8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button8.BackgroundImage")));
 			this.button8.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button8.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button8.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button8.ForeColor = System.Drawing.Color.White;
-			this.button8.Location = new System.Drawing.Point(18, 143);
+			this.button8.Location = new System.Drawing.Point(19, 130);
 			this.button8.Margin = new System.Windows.Forms.Padding(2);
 			this.button8.Name = "button8";
-			this.button8.Size = new System.Drawing.Size(190, 65);
+			this.button8.Size = new System.Drawing.Size(190, 70);
 			this.button8.TabIndex = 18;
 			this.button8.Text = "++ATTENDANCE";
 			this.button8.UseVisualStyleBackColor = false;
@@ -113,12 +131,12 @@
 			this.button9.BackColor = System.Drawing.SystemColors.ActiveBorder;
 			this.button9.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
 			this.button9.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button9.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button9.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button9.ForeColor = System.Drawing.Color.White;
-			this.button9.Location = new System.Drawing.Point(18, 350);
+			this.button9.Location = new System.Drawing.Point(19, 366);
 			this.button9.Margin = new System.Windows.Forms.Padding(2);
 			this.button9.Name = "button9";
-			this.button9.Size = new System.Drawing.Size(93, 65);
+			this.button9.Size = new System.Drawing.Size(190, 50);
 			this.button9.TabIndex = 17;
 			this.button9.Text = "FEEDBACK";
 			this.button9.UseVisualStyleBackColor = false;
@@ -131,9 +149,9 @@
 			this.button11.BackColor = System.Drawing.Color.Crimson;
 			this.button11.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_120856;
 			this.button11.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button11.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button11.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button11.ForeColor = System.Drawing.SystemColors.Control;
-			this.button11.Location = new System.Drawing.Point(18, 419);
+			this.button11.Location = new System.Drawing.Point(19, 420);
 			this.button11.Margin = new System.Windows.Forms.Padding(2);
 			this.button11.Name = "button11";
 			this.button11.Size = new System.Drawing.Size(190, 50);
@@ -149,12 +167,12 @@
 			this.button7.BackColor = System.Drawing.SystemColors.ActiveCaption;
 			this.button7.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
 			this.button7.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button7.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button7.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button7.ForeColor = System.Drawing.SystemColors.InactiveBorder;
 			this.button7.Location = new System.Drawing.Point(18, 5);
 			this.button7.Margin = new System.Windows.Forms.Padding(2);
 			this.button7.Name = "button7";
-			this.button7.Size = new System.Drawing.Size(190, 65);
+			this.button7.Size = new System.Drawing.Size(190, 50);
 			this.button7.TabIndex = 15;
 			this.button7.Text = "HOME";
 			this.button7.UseVisualStyleBackColor = false;
@@ -167,14 +185,14 @@
 			this.button6.BackColor = System.Drawing.SystemColors.ButtonHighlight;
 			this.button6.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
 			this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button6.Font = new System.Drawing.Font("Consolas", 11F, System.Drawing.FontStyle.Bold);
+			this.button6.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button6.ForeColor = System.Drawing.SystemColors.HighlightText;
-			this.button6.Location = new System.Drawing.Point(18, 212);
+			this.button6.Location = new System.Drawing.Point(19, 204);
 			this.button6.Margin = new System.Windows.Forms.Padding(2);
 			this.button6.Name = "button6";
-			this.button6.Size = new System.Drawing.Size(189, 65);
+			this.button6.Size = new System.Drawing.Size(189, 50);
 			this.button6.TabIndex = 14;
-			this.button6.Text = "ATTENDANCE GRAPH";
+			this.button6.Text = "GRAPH";
 			this.button6.UseVisualStyleBackColor = false;
 			this.button6.Click += new System.EventHandler(this.button6_Click);
 			// 
@@ -183,14 +201,14 @@
 			this.button4.AllowDrop = true;
 			this.button4.AutoSize = true;
 			this.button4.BackColor = System.Drawing.Color.SkyBlue;
-			this.button4.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
+			this.button4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button4.BackgroundImage")));
 			this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button4.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button4.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button4.ForeColor = System.Drawing.Color.White;
-			this.button4.Location = new System.Drawing.Point(18, 74);
+			this.button4.Location = new System.Drawing.Point(19, 59);
 			this.button4.Margin = new System.Windows.Forms.Padding(2);
 			this.button4.Name = "button4";
-			this.button4.Size = new System.Drawing.Size(190, 65);
+			this.button4.Size = new System.Drawing.Size(190, 70);
 			this.button4.TabIndex = 12;
 			this.button4.Text = "REGISTER NEW";
 			this.button4.UseVisualStyleBackColor = false;
@@ -200,10 +218,11 @@
 			// 
 			this.button1.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115449;
 			this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+			this.button1.Font = new System.Drawing.Font("Lucida Sans", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button1.ForeColor = System.Drawing.Color.Transparent;
-			this.button1.Location = new System.Drawing.Point(851, 6);
+			this.button1.Location = new System.Drawing.Point(855, 6);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(86, 44);
+			this.button1.Size = new System.Drawing.Size(82, 44);
 			this.button1.TabIndex = 19;
 			this.button1.Text = "OpenMenu";
 			this.button1.UseVisualStyleBackColor = true;
@@ -213,11 +232,30 @@
 			// 
 			this.label1.AutoSize = true;
 			this.label1.BackColor = System.Drawing.Color.Transparent;
+			this.label1.Font = new System.Drawing.Font("Lucida Sans Unicode", 10.2F);
 			this.label1.Location = new System.Drawing.Point(245, 13);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(63, 20);
+			this.label1.Size = new System.Drawing.Size(0, 21);
 			this.label1.TabIndex = 22;
-			this.label1.Text = "Date: ";
+			this.label1.Click += new System.EventHandler(this.label1_Click);
+			// 
+			// showAttendance1
+			// 
+			this.showAttendance1.BackColor = System.Drawing.Color.Transparent;
+			this.showAttendance1.Location = new System.Drawing.Point(243, 38);
+			this.showAttendance1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+			this.showAttendance1.Name = "showAttendance1";
+			this.showAttendance1.Size = new System.Drawing.Size(606, 436);
+			this.showAttendance1.TabIndex = 25;
+			// 
+			// addTeacher1
+			// 
+			this.addTeacher1.BackColor = System.Drawing.Color.Transparent;
+			this.addTeacher1.Location = new System.Drawing.Point(243, 33);
+			this.addTeacher1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+			this.addTeacher1.Name = "addTeacher1";
+			this.addTeacher1.Size = new System.Drawing.Size(606, 423);
+			this.addTeacher1.TabIndex = 24;
 			// 
 			// feedback1
 			// 
@@ -290,41 +328,6 @@
 			this.attendance_Graph1.Name = "attendance_Graph1";
 			this.attendance_Graph1.Size = new System.Drawing.Size(706, 425);
 			this.attendance_Graph1.TabIndex = 21;
-			// 
-			// addTeacher1
-			// 
-			this.addTeacher1.BackColor = System.Drawing.Color.Transparent;
-			this.addTeacher1.Location = new System.Drawing.Point(243, 33);
-			this.addTeacher1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-			this.addTeacher1.Name = "addTeacher1";
-			this.addTeacher1.Size = new System.Drawing.Size(606, 423);
-			this.addTeacher1.TabIndex = 24;
-			// 
-			// button3
-			// 
-			this.button3.AllowDrop = true;
-			this.button3.AutoSize = true;
-			this.button3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-			this.button3.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Screenshot_2024_03_25_115638;
-			this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button3.Font = new System.Drawing.Font("Consolas", 11F, System.Drawing.FontStyle.Bold);
-			this.button3.ForeColor = System.Drawing.SystemColors.HighlightText;
-			this.button3.Location = new System.Drawing.Point(19, 281);
-			this.button3.Margin = new System.Windows.Forms.Padding(2);
-			this.button3.Name = "button3";
-			this.button3.Size = new System.Drawing.Size(189, 65);
-			this.button3.TabIndex = 20;
-			this.button3.Text = "SHOW ATTENDANCE";
-			this.button3.UseVisualStyleBackColor = false;
-			this.button3.Click += new System.EventHandler(this.button3_Click);
-			// 
-			// showAttendance1
-			// 
-			this.showAttendance1.Location = new System.Drawing.Point(243, 38);
-			this.showAttendance1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-			this.showAttendance1.Name = "showAttendance1";
-			this.showAttendance1.Size = new System.Drawing.Size(606, 436);
-			this.showAttendance1.TabIndex = 25;
 			// 
 			// Form1
 			// 

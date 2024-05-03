@@ -29,5 +29,14 @@ namespace WindowsFormsApp1
 			dataGridView1.Rows[rowIndex].Cells[1].Value = attendanceStatus;
 		}
 
+		private void Subject_SelectedItemChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void ShowAttendance_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

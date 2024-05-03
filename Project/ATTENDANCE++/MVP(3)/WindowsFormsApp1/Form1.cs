@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
 			addTeacher1.Hide();
             authenticator1.Show();
 			dashboard1.label10.Text = authenticator1.richTextBox1.Text;
-            label1.Text = "Date:" + (DateTime.Now.ToString()).Substring(0, 10);
+            label1.Text = (DateTime.Now.ToString()).Substring(0, 10);
 
 		}
 
@@ -241,6 +241,7 @@ namespace WindowsFormsApp1
 			if (authenticator1.isPassed == true)
 			{
 				dashboard1.Hide();
+				addTeacher1.Hide();
 				registerNew1.Hide();
 				attendancepp1.Hide();
 				attendancepp2.Hide();
@@ -257,6 +258,11 @@ namespace WindowsFormsApp1
 			{
 				MessageBox.Show("Authentication Uncleared");
 			}
+		}
+
+		private void label1_Click(object sender, EventArgs e)
+		{
+
 		}
 	}
 }
