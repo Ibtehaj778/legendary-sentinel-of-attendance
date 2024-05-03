@@ -34,14 +34,15 @@
 			System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
 			System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
 			System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+			
 			this.label10 = new System.Windows.Forms.Label();
-			this.section = new System.Windows.Forms.DomainUpDown();
 			this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-			this.Subject = new System.Windows.Forms.DomainUpDown();
 			this.dataGridView1 = new System.Windows.Forms.DataGridView();
 			this.AttendanceStatus = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.RollNumber = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.button1 = new System.Windows.Forms.Button();
+			comboBox2 = new System.Windows.Forms.ComboBox();
+			comboBox1 = new System.Windows.Forms.ComboBox();
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -55,15 +56,6 @@
 			this.label10.TabIndex = 13;
 			this.label10.Text = "CHECK ATTENDANCE";
 			// 
-			// section
-			// 
-			this.section.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.section.Location = new System.Drawing.Point(18, 51);
-			this.section.Name = "section";
-			this.section.Size = new System.Drawing.Size(180, 31);
-			this.section.TabIndex = 15;
-			this.section.Text = " Section";
-			// 
 			// dateTimePicker1
 			// 
 			this.dateTimePicker1.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -71,16 +63,6 @@
 			this.dateTimePicker1.Name = "dateTimePicker1";
 			this.dateTimePicker1.Size = new System.Drawing.Size(369, 31);
 			this.dateTimePicker1.TabIndex = 16;
-			// 
-			// Subject
-			// 
-			this.Subject.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.Subject.Location = new System.Drawing.Point(204, 51);
-			this.Subject.Name = "Subject";
-			this.Subject.Size = new System.Drawing.Size(183, 31);
-			this.Subject.TabIndex = 18;
-			this.Subject.Text = " Subject";
-			this.Subject.SelectedItemChanged += new System.EventHandler(this.Subject_SelectedItemChanged);
 			// 
 			// dataGridView1
 			// 
@@ -172,16 +154,113 @@
 			this.button1.UseVisualStyleBackColor = true;
 			this.button1.Click += new System.EventHandler(this.button1_Click);
 			// 
+			// comboBox2
+			// 
+			comboBox2.DropDownHeight = 50;
+			comboBox2.DropDownWidth = 100;
+			comboBox2.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Bold);
+			comboBox2.FormattingEnabled = true;
+			comboBox2.IntegralHeight = false;
+			comboBox2.Items.AddRange(new object[] {
+            "CS2001 (PF)",
+            "CS2002 (COAL)",
+            "CS2003 (OOP)",
+            "CS2004 (FSE)",
+            "MT2004 (Calculus)",
+            "CS2005 (Algorithms)",
+            "CS2006 (Database Systems)",
+            "CS2007 (Operating Systems)",
+            "CS2008 (Computer Networks)",
+            "CS2009 (Software Engineering)",
+            "CS2010 (Web Development)",
+            "CS2011 (Artificial Intelligence)",
+            "CS2012 (Machine Learning)",
+            "CS2013 (Natural Language Processing)",
+            "CS2014 (Deep Learning)",
+            "CS2015 (Computer Vision)",
+            "CS2016 (Parallel Computing)",
+            "CS2017 (Cybersecurity)",
+            "CS2018 (Data Mining)",
+            "CS2019 (Information Retrieval)",
+            "CS2020 (Robotics)",
+            "CS2021 (Cloud Computing)",
+            "CS2022 (Mobile App Development)",
+            "CS2023 (Game Development)",
+            "CS2024 (Blockchain Technologies)"});
+			comboBox2.Location = new System.Drawing.Point(145, 52);
+			comboBox2.Name = "comboBox2";
+			comboBox2.Size = new System.Drawing.Size(170, 29);
+			comboBox2.TabIndex = 38;
+			comboBox2.Text = "Subject";
+			// 
+			// comboBox1
+			// 
+			comboBox1.DropDownHeight = 70;
+			comboBox1.DropDownWidth = 150;
+			comboBox1.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Bold);
+			comboBox1.FormattingEnabled = true;
+			comboBox1.IntegralHeight = false;
+			comboBox1.Items.AddRange(new object[] {
+            "BCS-2A",
+            "BCS-2B",
+            "BCS-2C",
+            "BCS-4A",
+            "BCS-4B",
+            "BCS-4C",
+            "BCS-6A",
+            "BCS-6B",
+            "BCS-6C",
+            "BCS-8A",
+            "BCS-8B",
+            "BCS-8C",
+            "BDS-2A",
+            "BDS-2B",
+            "BDS-2C",
+            "BDS-4A",
+            "BDS-4B",
+            "BDS-4C",
+            "BDS-6A",
+            "BDS-6B",
+            "BDS-6C",
+            "BDS-8A",
+            "BDS-8B",
+            "BDS-8C",
+            "BSE-2A",
+            "BSE-2B",
+            "BSE-2C",
+            "BSE-2D",
+            "BSE-2E",
+            "BSE-4A",
+            "BSE-4B",
+            "BSE-4C",
+            "BSE-4D",
+            "BSE-4E",
+            "BSE-6A",
+            "BSE-6B",
+            "BSE-6C",
+            "BSE-6D",
+            "BSE-6E",
+            "BSE-8A",
+            "BSE-8B",
+            "BSE-8C",
+            "BSE-8D",
+            "BSE-8E"});
+			comboBox1.Location = new System.Drawing.Point(18, 52);
+			comboBox1.Name = "comboBox1";
+			comboBox1.Size = new System.Drawing.Size(121, 29);
+			comboBox1.TabIndex = 37;
+			comboBox1.Text = "Section";
+			// 
 			// ShowAttendance
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.Transparent;
+			this.Controls.Add(comboBox2);
+			this.Controls.Add(comboBox1);
 			this.Controls.Add(this.dataGridView1);
-			this.Controls.Add(this.Subject);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.dateTimePicker1);
-			this.Controls.Add(this.section);
 			this.Controls.Add(this.label10);
 			this.Name = "ShowAttendance";
 			this.Size = new System.Drawing.Size(660, 460);
@@ -195,12 +274,12 @@
 		#endregion
 
 		private System.Windows.Forms.Label label10;
-		private System.Windows.Forms.DomainUpDown section;
 		private System.Windows.Forms.DateTimePicker dateTimePicker1;
 		private System.Windows.Forms.Button button1;
-		private System.Windows.Forms.DomainUpDown Subject;
 		private System.Windows.Forms.DataGridView dataGridView1;
 		private System.Windows.Forms.DataGridViewTextBoxColumn AttendanceStatus;
 		private System.Windows.Forms.DataGridViewTextBoxColumn RollNumber;
+		System.Windows.Forms.ComboBox comboBox2;
+		System.Windows.Forms.ComboBox comboBox1;
 	}
 }

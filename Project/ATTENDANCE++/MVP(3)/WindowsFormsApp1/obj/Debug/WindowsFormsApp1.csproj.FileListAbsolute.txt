@@ -999,3 +999,7 @@ C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\Wi
 C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddTeacher.resources
 C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ShowAttendance.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application

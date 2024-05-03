@@ -48,6 +48,18 @@ namespace WindowsFormsApp1
 		{
 			try
 			{
+				if (comboBox1.SelectedItem == null)
+				{
+					MessageBox.Show("Please select a section.", "Selection Required", MessageBoxButtons.OK, MessageBoxIcon.Information);
+					return;
+				}
+
+				if (comboBox2.SelectedItem == null)
+				{
+					MessageBox.Show("Please select a subject.", "Selection Required", MessageBoxButtons.OK, MessageBoxIcon.Information);
+					return;
+				}
+
 				string selectedSection = comboBox1.SelectedItem.ToString();
 
 				List<string> registeredSections = teacher_registered_sections.Split(';').ToList();
