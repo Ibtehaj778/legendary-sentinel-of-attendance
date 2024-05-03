@@ -299,7 +299,7 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label16;
+        public System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
     }
 }

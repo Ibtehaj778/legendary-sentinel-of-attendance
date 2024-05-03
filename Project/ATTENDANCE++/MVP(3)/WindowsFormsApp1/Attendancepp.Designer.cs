@@ -31,6 +31,7 @@
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Attendancepp));
 			System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
 			System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+			
 			this.label8 = new System.Windows.Forms.Label();
 			this.label7 = new System.Windows.Forms.Label();
 			this.label6 = new System.Windows.Forms.Label();
@@ -45,8 +46,8 @@
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.label17 = new System.Windows.Forms.Label();
 			this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
-			this.section = new System.Windows.Forms.DomainUpDown();
-			this.Subject = new System.Windows.Forms.DomainUpDown();
+			comboBox1 = new System.Windows.Forms.ComboBox();
+			comboBox2 = new System.Windows.Forms.ComboBox();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
@@ -104,7 +105,7 @@
 			this.button10.Location = new System.Drawing.Point(272, 228);
 			this.button10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.button10.Name = "button10";
-			this.button10.Size = new System.Drawing.Size(182, 44);
+			this.button10.Size = new System.Drawing.Size(186, 44);
 			this.button10.TabIndex = 25;
 			this.button10.Text = "FETCH DETAILS";
 			this.button10.UseVisualStyleBackColor = false;
@@ -236,32 +237,110 @@
 			this.chart1.TabIndex = 32;
 			this.chart1.Text = "chart1";
 			// 
-			// section
+			// comboBox1
 			// 
-			this.section.Font = new System.Drawing.Font("Lucida Fax", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.section.Location = new System.Drawing.Point(460, 239);
-			this.section.Name = "section";
-			this.section.Size = new System.Drawing.Size(94, 25);
-			this.section.TabIndex = 33;
-			this.section.Text = " Section";
-			this.section.SelectedItemChanged += new System.EventHandler(this.section_SelectedItemChanged);
+			comboBox1.DropDownHeight = 70;
+			comboBox1.DropDownWidth = 150;
+			comboBox1.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Bold);
+			comboBox1.FormattingEnabled = true;
+			comboBox1.IntegralHeight = false;
+			comboBox1.Items.AddRange(new object[] {
+            "BCS-2A",
+            "BCS-2B",
+            "BCS-2C",
+            "BCS-4A",
+            "BCS-4B",
+            "BCS-4C",
+            "BCS-6A",
+            "BCS-6B",
+            "BCS-6C",
+            "BCS-8A",
+            "BCS-8B",
+            "BCS-8C",
+            "BDS-2A",
+            "BDS-2B",
+            "BDS-2C",
+            "BDS-4A",
+            "BDS-4B",
+            "BDS-4C",
+            "BDS-6A",
+            "BDS-6B",
+            "BDS-6C",
+            "BDS-8A",
+            "BDS-8B",
+            "BDS-8C",
+            "BSE-2A",
+            "BSE-2B",
+            "BSE-2C",
+            "BSE-2D",
+            "BSE-2E",
+            "BSE-4A",
+            "BSE-4B",
+            "BSE-4C",
+            "BSE-4D",
+            "BSE-4E",
+            "BSE-6A",
+            "BSE-6B",
+            "BSE-6C",
+            "BSE-6D",
+            "BSE-6E",
+            "BSE-8A",
+            "BSE-8B",
+            "BSE-8C",
+            "BSE-8D",
+            "BSE-8E"});
+			comboBox1.Location = new System.Drawing.Point(464, 236);
+			comboBox1.Name = "comboBox1";
+			comboBox1.Size = new System.Drawing.Size(121, 29);
+			comboBox1.TabIndex = 35;
+			comboBox1.Text = "Section";
 			// 
-			// Subject
+			// comboBox2
 			// 
-			this.Subject.Font = new System.Drawing.Font("Lucida Fax", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.Subject.Location = new System.Drawing.Point(560, 239);
-			this.Subject.Name = "Subject";
-			this.Subject.Size = new System.Drawing.Size(94, 25);
-			this.Subject.TabIndex = 34;
-			this.Subject.Text = " Subject";
+			comboBox2.DropDownHeight = 50;
+			comboBox2.DropDownWidth = 100;
+			comboBox2.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Bold);
+			comboBox2.FormattingEnabled = true;
+			comboBox2.IntegralHeight = false;
+			comboBox2.Items.AddRange(new object[] {
+            "CS2001 (PF)",
+            "CS2002 (COAL)",
+            "CS2003 (OOP)",
+            "CS2004 (FSE)",
+            "MT2004 (Calculus)",
+            "CS2005 (Algorithms)",
+            "CS2006 (Database Systems)",
+            "CS2007 (Operating Systems)",
+            "CS2008 (Computer Networks)",
+            "CS2009 (Software Engineering)",
+            "CS2010 (Web Development)",
+            "CS2011 (Artificial Intelligence)",
+            "CS2012 (Machine Learning)",
+            "CS2013 (Natural Language Processing)",
+            "CS2014 (Deep Learning)",
+            "CS2015 (Computer Vision)",
+            "CS2016 (Parallel Computing)",
+            "CS2017 (Cybersecurity)",
+            "CS2018 (Data Mining)",
+            "CS2019 (Information Retrieval)",
+            "CS2020 (Robotics)",
+            "CS2021 (Cloud Computing)",
+            "CS2022 (Mobile App Development)",
+            "CS2023 (Game Development)",
+            "CS2024 (Blockchain Technologies)"});
+			comboBox2.Location = new System.Drawing.Point(587, 236);
+			comboBox2.Name = "comboBox2";
+			comboBox2.Size = new System.Drawing.Size(170, 29);
+			comboBox2.TabIndex = 36;
+			comboBox2.Text = "Subject";
 			// 
 			// Attendancepp
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.Transparent;
-			this.Controls.Add(this.Subject);
-			this.Controls.Add(this.section);
+			this.Controls.Add(comboBox2);
+			this.Controls.Add(comboBox1);
 			this.Controls.Add(this.chart1);
 			this.Controls.Add(this.label17);
 			this.Controls.Add(this.label3);
@@ -303,8 +382,8 @@
 		private System.Windows.Forms.PictureBox pictureBox1;
 		private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label17;
+		System.Windows.Forms.ComboBox comboBox1;
+		System.Windows.Forms.ComboBox comboBox2;
 		public System.Windows.Forms.DataVisualization.Charting.Chart chart1;
-		private System.Windows.Forms.DomainUpDown section;
-		private System.Windows.Forms.DomainUpDown Subject;
 	}
 }

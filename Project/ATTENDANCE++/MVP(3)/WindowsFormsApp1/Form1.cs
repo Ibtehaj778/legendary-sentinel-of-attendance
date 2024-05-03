@@ -105,6 +105,7 @@ namespace WindowsFormsApp1
                 authenticator1.Hide();
 				feedback1.Hide();
 				addTeacher1.Hide();
+				attendancepp1.teacher_registered_sections = dashboard1.label16.Text;
 				attendancepp1.Show(); 
 				panel1.Show();
             }

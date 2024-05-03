@@ -123,8 +123,9 @@
 			this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle5;
 			this.dataGridView1.RowHeadersWidth = 51;
 			dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-			dataGridViewCellStyle6.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			dataGridViewCellStyle6.Font = new System.Drawing.Font("Lucida Fax", 10.8F, System.Drawing.FontStyle.Bold);
 			this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle6;
+			this.dataGridView1.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Lucida Fax", 10.8F, System.Drawing.FontStyle.Bold);
 			this.dataGridView1.RowTemplate.Height = 24;
 			this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
 			this.dataGridView1.Size = new System.Drawing.Size(712, 318);

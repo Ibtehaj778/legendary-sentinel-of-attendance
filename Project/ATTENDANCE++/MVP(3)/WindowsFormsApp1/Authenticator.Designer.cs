@@ -40,7 +40,7 @@
 			// 
 			// richTextBox1
 			// 
-			this.richTextBox1.Font = new System.Drawing.Font("Lucida Fax", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.richTextBox1.Font = new System.Drawing.Font("Lucida Sans Typewriter", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox1.Location = new System.Drawing.Point(103, 188);
 			this.richTextBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.richTextBox1.MaxLength = 20;
@@ -55,7 +55,7 @@
 			// 
 			// richTextBox2
 			// 
-			this.richTextBox2.Font = new System.Drawing.Font("Lucida Fax", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.richTextBox2.Font = new System.Drawing.Font("Lucida Sans Typewriter", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox2.Location = new System.Drawing.Point(103, 265);
 			this.richTextBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.richTextBox2.MaxLength = 20;
@@ -91,20 +91,20 @@
 			// label3
 			// 
 			this.label3.AutoSize = true;
-			this.label3.Font = new System.Drawing.Font("Lucida Fax", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label3.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label3.Location = new System.Drawing.Point(100, 167);
 			this.label3.Name = "label3";
-			this.label3.Size = new System.Drawing.Size(101, 20);
+			this.label3.Size = new System.Drawing.Size(98, 19);
 			this.label3.TabIndex = 4;
 			this.label3.Text = "TeacherID";
 			// 
 			// label4
 			// 
 			this.label4.AutoSize = true;
-			this.label4.Font = new System.Drawing.Font("Lucida Fax", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label4.Font = new System.Drawing.Font("Lucida Sans", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label4.Location = new System.Drawing.Point(100, 244);
 			this.label4.Name = "label4";
-			this.label4.Size = new System.Drawing.Size(95, 20);
+			this.label4.Size = new System.Drawing.Size(93, 19);
 			this.label4.TabIndex = 5;
 			this.label4.Text = "Password";
 			// 
