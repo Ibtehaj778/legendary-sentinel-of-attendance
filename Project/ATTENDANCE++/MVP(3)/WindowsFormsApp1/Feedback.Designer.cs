@@ -149,7 +149,6 @@
 			this.label10.Size = new System.Drawing.Size(119, 23);
 			this.label10.TabIndex = 12;
 			this.label10.Text = "FEEDBACK";
-			this.label10.Click += new System.EventHandler(this.label10_Click);
 			// 
 			// Feedback
 			// 
@@ -169,7 +168,6 @@
 			this.Margin = new System.Windows.Forms.Padding(4);
 			this.Name = "Feedback";
 			this.Size = new System.Drawing.Size(660, 460);
-			this.Load += new System.EventHandler(this.Feedback_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 

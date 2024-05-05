@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\registernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\registernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\attendancepp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\attendancepp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\attendancepp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\attendancepp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\showattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\showattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\showattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\showattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\windowsformsapp1\\showattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\showattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\registernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\registernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\windowsformsapp1\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\windowsformsapp1\\attendancepp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\attendancepp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\attendance_graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\attendance_graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\windowsformsapp1\\showattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\showattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ahmed\\documents\\github\\legendary_sentinel_of_attendance\\project\\attendance\u002B\u002B\\mvp(3)\\windowsformsapp1\\registernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\registernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\windowsformsapp1\\showattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968CCB6C-234D-4D0F-B7D7-ADE5B68C7B5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\showattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\bin\\Debug\\Student.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,58 +62,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterNew.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\RegisterNew.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\RegisterNew.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\RegisterNew.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\RegisterNew.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAUwJUAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Authenticator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Authenticator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Authenticator.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Authenticator.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:52:50.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Attendancepp.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendancepp.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Attendancepp.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendancepp.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Attendancepp.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAiwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:48:51.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Attendancepp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendancepp.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Attendancepp.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendancepp.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Attendancepp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:45:36.196Z",
+              "WhenOpened": "2024-05-05T10:11:16.531Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowAttendance.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\ShowAttendance.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\ShowAttendance.Designer.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\ShowAttendance.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\ShowAttendance.Designer.cs",
-              "ViewState": "AQIAAAcBAACAMzMzMzMrwBoBAAAqAAAA",
+              "DocumentIndex": 5,
+              "Title": "Attendance_Graph.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendance_Graph.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Attendance_Graph.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendance_Graph.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Attendance_Graph.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:30:50.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:11:01.596Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "RegisterNew.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\RegisterNew.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RegisterNew.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\RegisterNew.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\RegisterNew.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:50:41.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Feedback.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Feedback.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Feedback.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:38:49.422Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ShowAttendance.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\ShowAttendance.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\ShowAttendance.cs",
@@ -118,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ShowAttendance.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\ShowAttendance.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\ShowAttendance.cs",
@@ -130,7 +135,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowAttendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\ShowAttendance.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ShowAttendance.Designer.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\ShowAttendance.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ShowAttendance.Designer.cs",
+              "ViewState": "AQIAAAcBAACAMzMzMzMrwBoBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:30:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attendancepp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendancepp.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Attendancepp.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Attendancepp.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Attendancepp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:45:36.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "RegisterNew.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\RegisterNew.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RegisterNew.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\RegisterNew.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RegisterNew.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAASwJAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:52:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Student.txt",
               "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\bin\\Debug\\Student.txt",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\bin\\Debug\\Student.txt",
@@ -139,18 +182,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-05-03T16:32:39.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Feedback.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Feedback.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Feedback.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Documents\\GitHub\\Legendary_Sentinel_of_Attendance\\Project\\ATTENDANCE\u002B\u002B\\MVP(3)\\WindowsFormsApp1\\Feedback.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Feedback.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:38:49.422Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -22,15 +22,14 @@ namespace WindowsFormsApp1
             get_feedbacks();
         }
 
-        private void label10_Click(object sender, EventArgs e)
-        {
-
-        }
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-            if (richTextBox1.Text == null)
-                return;
+            if (richTextBox1.Text == "")
+            {
+                MessageBox.Show("No feedback entered to submit");
+                return; 
+            }
             label1.Text = label2.Text;
             label2.Text = label3.Text;
             label3.Text = label4.Text;
@@ -98,9 +97,5 @@ namespace WindowsFormsApp1
 
         }
 
-		private void Feedback_Load(object sender, EventArgs e)
-		{
-
-		}
 	}
 }

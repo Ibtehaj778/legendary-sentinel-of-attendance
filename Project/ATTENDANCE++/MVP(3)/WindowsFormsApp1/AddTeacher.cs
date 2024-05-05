@@ -30,20 +30,14 @@ namespace WindowsFormsApp1
 
 		private void button10_Click(object sender, EventArgs e)
 		{
-			if (domainUpDown2.Text.Length == 0)
+			if (richTextBox1.Text.Length != 4 || richTextBox10.Text.Length<8 ||
+				 richTextBox3.Text.Length < 1 || richTextBox4.Text.Length < 1 ||
+				  richTextBox5.Text.Length != 5 || richTextBox6.Text.Length != 7 
+				  || richTextBox7.Text.Length != 1 || richTextBox8.Text.Length < 1
+				  || richTextBox9.Text.Length <= 1)
 			{
-				MessageBox.Show("Invalid Data");
-				return; 
-			}
-			if (richTextBox1.Text.Length == 0)
-			{
-				MessageBox.Show("Invalid Data");
-				return; 
-			}
-			if (richTextBox10.Text.Length <= 8)
-			{
-				MessageBox.Show("Invalid Data");
-				return; 
+				MessageBox.Show("Invalid Data. \n1. ID=4 Digits\n2. Password>8 Digits\n3. CNIC=13 Digit");
+				return;
 			}
 
 			string username = domainUpDown2.Text + numericUpDown3.Value.ToString() + richTextBox1.Text;
@@ -63,7 +57,7 @@ namespace WindowsFormsApp1
 				{
 					if ((string)row[0] == username)
 					{
-						MessageBox.Show("teacher already registered!!!");
+						MessageBox.Show("Teacher with same ID already registered \n1. Change TeaceherID\n2. Contact Admin");
 						return;
 						isadded = true;
 					}

@@ -29,7 +29,7 @@
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddTeacher));
-		
+			
 			this.richTextBox1 = new System.Windows.Forms.RichTextBox();
 			this.label17 = new System.Windows.Forms.Label();
 			this.richTextBox3 = new System.Windows.Forms.RichTextBox();
@@ -207,6 +207,7 @@
 			this.richTextBox5.MaxLength = 5;
 			this.richTextBox5.Multiline = false;
 			this.richTextBox5.Name = "richTextBox5";
+			this.richTextBox5.RightToLeft = System.Windows.Forms.RightToLeft.No;
 			this.richTextBox5.Size = new System.Drawing.Size(101, 32);
 			this.richTextBox5.TabIndex = 85;
 			this.richTextBox5.Text = "";
@@ -433,6 +434,8 @@
 
 		#endregion
 
+		System.Windows.Forms.DomainUpDown domainUpDown2;
+		System.Windows.Forms.NumericUpDown numericUpDown3;
 		private System.Windows.Forms.RichTextBox richTextBox1;
 		private System.Windows.Forms.Label label17;
 		private System.Windows.Forms.RichTextBox richTextBox3;
@@ -458,8 +461,6 @@
 		private System.Windows.Forms.Label label11;
 		private System.Windows.Forms.RichTextBox richTextBox10;
 		private System.Windows.Forms.Label label12;
-		System.Windows.Forms.DomainUpDown domainUpDown2;
-		System.Windows.Forms.NumericUpDown numericUpDown3;
 
 	}
 }

@@ -29,11 +29,7 @@
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RegisterNew));
-			//System.Windows.Forms.NumericUpDown numericUpDown1;
-			//System.Windows.Forms.DomainUpDown domainUpDown1;
-			//System.Windows.Forms.NumericUpDown numericUpDown2;
-			//System.Windows.Forms.NumericUpDown numericUpDown3;
-			//System.Windows.Forms.DomainUpDown domainUpDown2;
+
 			this.label3 = new System.Windows.Forms.Label();
 			this.label8 = new System.Windows.Forms.Label();
 			this.label7 = new System.Windows.Forms.Label();
@@ -101,7 +97,7 @@
 			this.label6.Size = new System.Drawing.Size(140, 21);
 			this.label6.TabIndex = 41;
 			this.label6.Text = "Father Name: ";
-			this.label6.Click += new System.EventHandler(this.label6_Click);
+
 			// 
 			// label5
 			// 
@@ -139,6 +135,7 @@
 			this.richTextBox2.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox2.Location = new System.Drawing.Point(391, 122);
 			this.richTextBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+			this.richTextBox2.MaxLength = 40;
 			this.richTextBox2.Multiline = false;
 			this.richTextBox2.Name = "richTextBox2";
 			this.richTextBox2.Size = new System.Drawing.Size(247, 35);
@@ -150,6 +147,7 @@
 			this.richTextBox3.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox3.Location = new System.Drawing.Point(391, 161);
 			this.richTextBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+			this.richTextBox3.MaxLength = 40;
 			this.richTextBox3.Multiline = false;
 			this.richTextBox3.Name = "richTextBox3";
 			this.richTextBox3.Size = new System.Drawing.Size(247, 32);
@@ -245,8 +243,9 @@
 			// richTextBox1
 			// 
 			this.richTextBox1.Font = new System.Drawing.Font("Lucida Sans", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.richTextBox1.Location = new System.Drawing.Point(500, 87);
+			this.richTextBox1.Location = new System.Drawing.Point(500, 85);
 			this.richTextBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+			this.richTextBox1.MaxLength = 4;
 			this.richTextBox1.Multiline = false;
 			this.richTextBox1.Name = "richTextBox1";
 			this.richTextBox1.Size = new System.Drawing.Size(138, 32);
@@ -355,7 +354,6 @@
             0,
             0,
             0});
-			numericUpDown3.ValueChanged += new System.EventHandler(this.numericUpDown3_ValueChanged);
 			// 
 			// domainUpDown2
 			// 
@@ -403,7 +401,6 @@
 			this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.Name = "RegisterNew";
 			this.Size = new System.Drawing.Size(660, 460);
-			this.Load += new System.EventHandler(this.RegisterNew_Load);
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(numericUpDown1)).EndInit();

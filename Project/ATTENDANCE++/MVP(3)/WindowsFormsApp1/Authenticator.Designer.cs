@@ -43,7 +43,7 @@
 			this.richTextBox1.Font = new System.Drawing.Font("Lucida Sans Typewriter", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox1.Location = new System.Drawing.Point(103, 188);
 			this.richTextBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-			this.richTextBox1.MaxLength = 20;
+			this.richTextBox1.MaxLength = 7;
 			this.richTextBox1.Multiline = false;
 			this.richTextBox1.Name = "richTextBox1";
 			this.richTextBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
@@ -58,7 +58,7 @@
 			this.richTextBox2.Font = new System.Drawing.Font("Lucida Sans Typewriter", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.richTextBox2.Location = new System.Drawing.Point(103, 265);
 			this.richTextBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-			this.richTextBox2.MaxLength = 20;
+			this.richTextBox2.MaxLength = 65;
 			this.richTextBox2.Multiline = false;
 			this.richTextBox2.Name = "richTextBox2";
 			this.richTextBox2.RightMargin = 10;

@@ -206,15 +206,5 @@ namespace WindowsFormsApp1
 			return data;
 		}
 
-
-		private void Attendancepp_Load(object sender, EventArgs e)
-		{
-
-		}
-
-		private void section_SelectedItemChanged(object sender, EventArgs e)
-		{
-
-		}
 	}
 }

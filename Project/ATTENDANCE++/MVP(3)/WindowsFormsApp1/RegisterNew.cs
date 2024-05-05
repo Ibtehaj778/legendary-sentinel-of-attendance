@@ -40,10 +40,10 @@ namespace WindowsFormsApp1
 
 		private void button3_Click(object sender, EventArgs e)
 		{
-			if (richTextBox1.Text == "")
+			if (richTextBox1.Text.Length != 4 || richTextBox2.Text == "" || richTextBox3.Text == "")
 			{
 				label3.Text = "Image Failed";
-				MessageBox.Show("Image Failed");
+				MessageBox.Show("Image failed due to invalid data");
 				return;
 			}
 
@@ -56,11 +56,6 @@ namespace WindowsFormsApp1
 				MessageBox.Show("Maximum Images Added (Keep on clicking if you need to retake images)");
 				ctr = '1';
 			}
-		}
-
-		private void RegisterNew_Load(object sender, EventArgs e)
-		{
-
 		}
 
 
@@ -99,7 +94,7 @@ namespace WindowsFormsApp1
 		private void button10_Click(object sender, EventArgs e)
 		{
 
-			if (richTextBox1.Text.Length == 4)
+			if (richTextBox1.Text.Length == 4 || richTextBox2.Text != "" || richTextBox3.Text != "")
 			{
 				string what_to_store = domainUpDown2.Text + numericUpDown3.Value.ToString() + richTextBox1.Text + ",";
 				what_to_store = what_to_store + richTextBox2.Text + ",";
@@ -143,19 +138,11 @@ namespace WindowsFormsApp1
 				catch (Exception ex)
 				{
 				}
-
-
 			}
-		}
-
-		private void numericUpDown3_ValueChanged(object sender, EventArgs e)
-		{
-
-		}
-
-		private void label6_Click(object sender, EventArgs e)
-		{
-
+			else
+			{
+				MessageBox.Show("Invalid Data\n1. Roll=4 Digits\n2. Names>1 Letter");
+			}
 		}
 	}
 }
