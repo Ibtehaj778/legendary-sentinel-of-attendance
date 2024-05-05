@@ -27,11 +27,6 @@
 ## System Architecture
 <a href="https://ibb.co/PFpm4P1"><img src="https://i.ibb.co/DzXVkvw/Architecture.png" alt="Architecture" border="0"></a>
 
-
-Of course! I'll add a section for installing necessary packages:
-
----
-
 ## Installation
 
 1. Clone the repository to your local machine:
