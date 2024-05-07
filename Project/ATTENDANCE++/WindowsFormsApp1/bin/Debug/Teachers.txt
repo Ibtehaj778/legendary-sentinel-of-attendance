@@ -1,0 +1,6 @@
+Babar Azam,L227503,Azam,babar.azam@lhr.nu.edu.pk,446431-5467946-1,09/03/1994,Machine Learning,BDS-4A;BDS-6A;BCS-6A
+John Doe,L227504,Doe,john.doe@example.com,123456-7890123-4,01/15/1990,Data Science,BDS-2B;BDS-3C;BCS-5A
+Alice Smith,L227505,Smith,alice.smith@example.com,987654-3210987-5,05/20/1995,Artificial Intelligence,BDS-1A;BDS-2A;BCS-4B
+Mohammad Khan,L227506,Khan,mohammad.khan@example.com,654321-0123456-7,11/10/1992,Software Engineering,BDS-3A;BDS-4B;BCS-6C
+Emma Brown,Admin,Brown,emma.brown@example.com,246810-1357924-8,08/05/1996,Computer Science,BDS-2A;BDS-5C;BCS-6A
+Khalid,L181946,Kashmiri,l181946@lhr.nu.edu.pk,System.Windows.Forms.RichTextBox, Text: 46797-System.Windows.Forms.RichTextBox, Text: 114645-System.Windows.Forms.RichTextBox, Text: 1,Wednesday, 31 December 2003,MLOps,BDS-4A

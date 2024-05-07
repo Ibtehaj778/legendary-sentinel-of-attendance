@@ -1,0 +1,1034 @@
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.xml
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\Camera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\ATTENDANCE++ (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\ATTENDANCE++ (3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\FAST\Desktop\MVP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\MVP(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\notum\OneDrive\Desktop\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FAST\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendancepp.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterNew.resources
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmed\Desktop\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddTeacher.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ShowAttendance.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\MVP(3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddTeacher.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Graph.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Feedback.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ShowAttendance.resources
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\ahmed\Documents\GitHub\Legendary_Sentinel_of_Attendance\Project\ATTENDANCE++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
